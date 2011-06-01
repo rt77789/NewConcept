@@ -1,0 +1,2494 @@
+$课文1 对不起！
+1. Excuse me!
+        对不起
+2. Yes?
+        什么事？
+3. Is this your handbag?
+        这是您的手提包吗？
+4. Pardon?
+        对不起，请再说一遍。
+5. Is this your handbag?
+        这是您的手提包吗？
+6. Yes, it is.
+        是的，是我的。
+7. Thank you very much.
+        非常感谢！
+$课文3 对不起，先生。
+8. My coat and my umbrella please.
+        请把我的大衣和伞拿给我。
+9. Here is my ticket.
+        这是我（寄存东西）的牌子。
+10. Thank you, sir.
+        谢谢，先生。
+11. Number five.
+        是5号。
+12. Here's your umbrella and your coat.
+        这是您的伞和大衣
+13. This is not my umbrella.
+        这不是我的伞。
+14. Sorry sir.
+        对不起，先生。
+15. Is this your umbrella?
+        这把伞是您的吗？
+16. No, it isn't.
+        不，不是！
+17. Is this it?
+        这把是吗？
+18. Yes, it is.
+        是，是这把
+19. Thank you very much.
+        非常感谢。
+$课文5 很高兴见到你。
+20. Good morning.
+        早上好。
+21. Good morning, Mr. Blake.
+        早上好，布莱克先生。
+22. This is Miss Sophie Dupont.
+        这位是索菲娅.杜邦小姐。
+23. Sophie is a new student.
+        索菲娅是个新学生。
+24. She is French.
+        她是法国人。
+25. Sophie, this is Hans.
+        索菲娅，这位是汉斯。
+26. He is German.
+        他是德国人。
+27. Nice to meet you.
+        很高兴见到你。
+28. And this is Naoko.
+        这位是直子。
+29. She's Japanese.
+        她是日本人。
+30. Nice to meet you.
+        很高兴见到你。
+31. And this is Chang-woo.
+        这位是昌宇。
+32. He's Korean.
+        他是韩国人。
+33. Nice to meet you.
+        很高兴见到你。
+34. And this is Luming.
+        这位是鲁明。
+35. He is Chinese.
+        他是中国人。
+36. Nice to meet you.
+        很高兴见到你。
+37. And this is Xiaohui.
+        这位是晓惠。
+38. She's Chinese, too.
+        她也是中国人。
+39. Nice to meet you.
+        很高兴见到你。
+$课文7 你是教师吗？
+40. I am a new student.
+        我是个新学生，
+41. My name's Robert.
+        我的名字叫罗伯特。
+42. Nice to meet you.
+        很高兴见到你。
+43. My name's Sophie.
+        我的名字叫索菲娅。
+44. Are you French?
+        你是法国人吗？
+45. Yes, I am.
+        是的，我是法国人。
+46. Are you French too?
+        你也是法国人吗？
+47. No, I am not.
+        不，我不是。
+48. What nationality are you?
+        你是哪国人？
+49. I'm Italian.
+        我是意大利人。
+50. Are you a teacher?
+        你是教师吗？
+51. No, I'm not.
+        不，我不是。
+52. What's your job?
+        你是做什么工作的？
+53. I'm a keyboard operator.
+        我是电脑录入员。
+54. What's your job?
+        你是做什么工作的？
+55. I'm an engineer.
+        我是工程师。
+$课文9 今天好吗？
+56. Hello, Helen.
+        你好，海伦
+57. Hi, Steven.
+        你好，史蒂文
+58. How are you today?
+        你今天好吗？
+59. I'm very well, thank you.
+        很好，谢谢你。
+60. And you?
+        你好吗？
+61. I'm fine, thanks.
+        很好，谢谢。
+62. How is Tony?
+        托尼好吗？
+63. He's fine, thanks.
+        他很好，谢谢。
+64. How's Emma?
+        埃玛好吗？
+65. She's very well, too, Helen.
+        她也很好，海伦。
+66. Goodbye, Helen.
+        再见，海伦。
+67. Nice to see you.
+        见到你真高兴。
+68. Nice to see you, too, Steven.
+        我见到你也很高兴，史蒂文。
+69. Goodbye.
+        再见。
+$课文11 这是你的衬衫吗？
+70. Whose shirt is that?
+        那是谁的衬衫？
+71. Is this your shirt, Dave?
+        戴夫， 这是你的衬衫吗？
+72. No. Sir.
+        不， 先生。
+73. It's not my shirt.
+        这不是我的衬衫。
+74. This is my shirt.
+        这是我的衬衫。
+75. My shirt's blue.
+        我的衬衫是蓝色的。
+76. Is this shirt Tim's?
+        这件衬衫是蒂姆的吗？
+77. Perhaps it is, sir.
+        也许是，先生。
+78. Tim's shirt's white.
+        蒂姆的衬衫是白色的。
+79. Tim!
+        蒂姆！
+80. Yes, sir?
+        什么事，先生。
+81. Is this your shirt?
+        这是你的衬衫吗？
+82. Yes, sir.
+        是的，先生。
+83. Here you are.
+        给你。
+84. Catch!
+        接着！
+85. Thank you, sir.
+        谢谢您，先生。
+$课文13 一件新连衣裙
+86. What colour's your new dress?
+        你的新连衣裙是什么颜色的？
+87. It's green.
+        是绿色的。
+88. Come upstairs and see it.
+        到楼上来看看吧。
+89. Thank you.
+        谢谢。
+90. Look! Here it is!
+        瞧，就是这件。
+91. That's nice dress.
+        这是件很好看的衣服。
+92. It's very smart.
+        真漂亮。
+93. My hat's new, too.
+        我的帽子也是新的。
+94. What colour is it?
+        是什么颜色的？
+95. It's the same colour.
+        一样的颜色，
+96. It's green, too.
+        也是绿的。
+97. That is a lovely hat!
+        真是一顶可爱的帽子！
+$课文15 请出示你们的护照
+98. Are you Swedish?
+        你们是瑞典人吗？
+99. No, we are not.
+        不，我们不是瑞典人。
+100. We are Danish.
+        我们是丹麦人。
+101. Are your friends Danish, too?
+        你们的朋友也是丹麦人吗？
+102. No, they aren't.
+        不，他们不是丹麦人。
+103. They are Norwegian.
+        他们是挪威人。
+104. Your passports, please.
+        请出示们的护照。
+105. Here they are.
+        给您。
+106. Are these your cases?
+        这些是你们的箱子吗？
+107. No, they aren't.
+        不，不是。
+108. Our cases are brown.
+        我们的箱子是棕色的。
+109. Here they are.
+        在这儿呢。
+110. Are you tourists?
+        你们是来旅游的吗？
+111. Yes, we are.
+        是的，我们是来旅游的。
+112. Are your friends tourists too?
+        你们的朋友也是来旅游的吗？
+113. Yes, they are.
+        是的，他们也是。
+114. That's fine.
+        好了。
+115. Thank you very much.
+        非常感谢。
+$课文17 你好！
+116. Come and meet our employees, Mr.Richards.
+        来见见我们的雇员，理查兹先生。
+117. Thank you, Mr. Jackson.
+        谢谢，杰在逊先生。
+118. This is Nicola Grey,
+        这位是尼克拉.格雷，
+119. and this is Claire Taylor.
+        这位是克莱尔.泰勒。
+120. How do you do?
+        你们好！
+121. Those women are very hard-working.
+        那些姑娘很勤快。
+122. What are their jobs?
+        她们是做什么工作的？
+123. They're keyboard operators.
+        她们是电脑录入员。
+124. This is Michael Baker,
+        这位是迈克尔.贝克，
+125. and this is Jeremy Short.
+        这位是杰里米.肖特。
+126. How do you do?
+        你们好！
+127. They aren't very busy!
+        他们不很忙吧！
+128. What are their jobs?
+        他们是做什么工作的？
+129. They're sales reps.
+        他们是推销员，
+130. They're very lazy.
+        他们非常懒。
+131. Who is this young man?
+        这个年轻人是谁？
+132. This is Jim.
+        他是吉姆，
+133. He's our office assistant.
+        是我们办公室的勤杂人员。
+$课文19 又累又渴
+134. What's the matter, children?
+        怎么啦，孩子们？
+135. We're tired...
+        我们累了……
+136. and thirsty,Mum.
+        还很渴，妈妈。
+137. Sit down here.
+        坐在这儿吧。
+138. Are you all right now?
+        你们现在好些了吗？
+139. No, we aren't.
+        不， 还没有。
+140. Look!
+        瞧！
+141. There's an ice cream man.
+        有个卖冰淇淋的。
+142. Two ice cream please.
+        请拿两份冰淇淋。
+143. Here you are, children.
+        拿着，孩子们。
+144. Thanks, Mum.
+        谢谢，妈妈。
+145. These ice creams are nice.
+        这些冰淇淋真好吃。
+146. Are you all right now?
+        你们现在好了吗？
+147. Yes, we are, thank you!
+        是的，现在好了，谢谢您！
+$课文21 哪一本书？
+148. Give me a book please, Jane.
+        请拿本书给我，简。
+149. Which book?
+        哪一本？
+150. This one?
+        是这本吗？
+151. No, not that one.
+        不，不是那本。
+152. The red one.
+        是那本红皮的。
+153. This one?
+        这本吗？
+154. Yes, please.
+        是的，请给我。
+155. Here you are.
+        给你。
+156. Thank you.
+        谢谢。
+$课文23 哪几只杯子
+157. Give me some glasses please, Jane.
+        请拿给我几只玻璃杯，简。
+158. Which glasses?
+        哪几只？
+159. These glasses?
+        这几只吗？
+160. No, not those.
+        不，不是那几只。
+161. The one on the shelf.
+        是架子上的那几只。
+162. These?
+        这几只？
+163. Yes, please.
+        是的，请拿给我。
+164. Here you are.
+        给你。
+165. Thanks.
+        谢谢。
+$课文25 史密斯太太的厨房
+166. Mrs. Smith's kitchen is small.
+        史密斯夫人的厨房很小。
+167. There is a refrigerator in the kitchen.
+        厨房里有个电冰箱。
+168. The refrigerator is white.
+        冰箱的颜色是白的。
+169. It is on the right.
+        它位于房间右侧。
+170. There is an electric cooker in the kitchen.
+        厨房里有个电灶。
+171. The cooker is blue.
+        电灶的颜色是蓝的。
+172. It is on the left.
+        它位于房间左侧。
+173. There is a table in the middle of the room.
+        房间的中央有张桌子。
+174. There is a bottle on the table.
+        桌子上有个瓶子。
+175. The bottle is empty.
+        瓶子是空的。
+176. There is a cup on the table, too.
+        桌子上还有一只杯子。
+177. The cup is clean.
+        杯子很干净。
+$课文27 史密斯太太的客厅
+178. Mrs. Smith's living room is large.
+        史密斯夫人的客厅很大。
+179. There is a television in the room.
+        客厅里有台电视机。
+180. The television is near the window.
+        电视机靠近窗子。
+181. There are some magazines on the television.
+        电视机上放着几本杂志。
+182. There is a table in the room.
+        客厅里有张桌子。
+183. There are some newspapers on the table.
+        桌上放着几份报纸。
+184. There are some armchairs in the room.
+        客厅里有几把扶手椅。
+185. The armchairs are near the table.
+        那些扶手椅靠近桌子。
+186. There is a stereo in the room.
+        客厅里有台立体声音响。
+187. The stereo is near the door.
+        音响靠近门。
+188. There are some books on the stereo.
+        音响上面有几本书。
+189. There are some pictures in the room.
+        客厅里有几幅画。
+190. The pictures are on the wall.
+        画挂在墙上。
+$课文29 进来，艾米
+191. Come in, Amy.
+        进来，艾米。
+192. Shut the door, please.
+        请把门关上。
+193. This bedroom's very untidy.
+        这卧室太不整洁了。
+194. What must I do, Mrs. Jones?
+        我应该做些什么呢，琼斯夫人？
+195. Open the window and air the room.
+        打开窗子，给房间通通风。
+196. Then put these clothes in the wardrobe.
+        然后把这些衣服放进衣橱里去。
+197. Then make the bed.
+        再把床整理一下。
+198. Dust the dressing table.
+        掸掉梳妆台上的灰尘。
+199. Then sweep the floor.
+        然后扫扫地。
+$课文31 萨利在哪里？
+200. Where's Sally, Jack?
+        杰克，萨莉在哪儿？
+201. She's in the garden, Jean.
+        她在花园里，琼。
+202. What's she doing?
+        她在干什么？
+203. She's sitting under the tree.
+        她正在树荫下坐着。
+204. Is Tim in the garden, too?
+        蒂姆也在花园里吗？
+205. Yes, he is.
+        是的，他也在花园里。
+206. He's climbing the tree.
+        他正在爬树。
+207. I beg your pardon?
+        你说什么？
+208. Who's climbing the tree?
+        谁在爬树？
+209. Tim is.
+        蒂姆在爬树。
+210. What about the dog?
+        那么狗呢？
+211. The dog's in the garden, too.
+        狗也在花园里。
+212. It's running across the grass.
+        它正在草地上跑，
+213. It's running after a cat.
+        在追一只猫。
+$课文33 晴天
+214. It is a fine day today.
+        今天天气好。
+215. There are some clouds in the sky,
+        天空中飘着几朵云，
+216. but the sun is shining.
+        但阳光灿烂。
+217. Mr. Jones is with his family.
+        琼斯先生同他的家人在一起。
+218. They are walking over the bridge.
+        他们正在过桥。
+219. There are some boats on the river.
+        河上有几艘船。
+220. Mr. Jones and his wife are looking at them.
+        琼斯先生和他的妻子正在看这些船。
+221. Sally is looking at a big ship.
+        莎莉正在观看一艘大船。
+222. The ship is going under the bridge.
+        那船正从桥下驶过。
+223. Tim is looking at an aeroplane.
+        蒂姆正望着一架飞机。
+224. The aeroplane is flying over the river.
+        飞机正从河上飞过。
+$课文35 我们的村庄
+225. This is a photograph of our village.
+        这是我们村庄的一张照片。
+226. Our village is in a valley.
+        我们的村庄坐落在一个山谷之中。
+227. It is between two hills.
+        它们于两座小山之间。
+228. The village is on a river.
+        它靠近一条小河。
+229. Here is another photograph of the village.
+        这是我们村庄的另一张照片。
+230. My wife and I are walking along the banks of the river.
+        我和妻子沿河岸走着。
+231. We are on the left.
+        我们在河的左侧。
+232. There is a boy in the water.
+        河里面有个男孩。
+233. He is swimming across the river.
+        他正横渡小河。
+234. Here is another photograph.
+        这是另一张照片。
+235. This is the school building.
+        这是学校大楼。
+236. It is beside a park.
+        它位于公园的旁边。
+237. The park is on the right.
+        公园在右面。
+238. Some children are coming out of the building.
+        一些孩子正从楼里出来。
+239. Some of them are going to the park.
+        他们中有几个正走进公园。
+$课文37 做书架
+240. You're working hard, George.
+        你干得真辛苦，乔治。
+241. What are you doing?
+        你在干什么呢？
+242. I'm making a bookcase.
+        我正在做书架。
+243. Give me that hammer please, Dan.
+        请把那把锤子拿给我。丹。
+244. Which hammer?
+        哪一把？
+245. This one?
+        是这把吗？
+246. No, not that one.
+        不，不是那把。
+247. The big one.
+        是那把大的。
+248. Here you are.
+        给你。
+249. Thanks, Dan.
+        谢谢。丹。
+250. What are you going to do now,George?
+        你现在打算干什么，乔治？
+251. I'm going to paint it.
+        我打算把它漆一下。
+252. What colour are you going to paint it?
+        你打算把它漆成什么颜色？
+253. I'm going to paint it pink.
+        我想漆成粉红色。
+254. Pink!
+        粉红色！
+255. This bookcase isn't for me.
+        这个书架不是为我做的，
+256. It's for my daughter, Susan.
+        是为我的女儿苏珊做的。
+257. Pink's her favourite colour.
+        粉红色是她最喜欢的颜色。
+$课文39 别摔了！
+258. What are you going to do with that vase, Penny?
+        你打算如何处理那共瓶？
+259. I'm going to put it on this table, Sam.
+        我打算把它放在这张桌子上，萨姆。
+260. Don't do that.
+        不要放在那儿，
+261. Give it to me.
+        把它给我。
+262. What are you going to do with it?
+        你打算怎么办？
+263. I'm going to put it here,
+        我准备把它入在这儿，
+264. in front of the window.
+        放在窗前。
+265. Be careful!
+        小心点！
+266. Don't drop it!
+        别摔了！
+267. Don't put there, Sam.
+        别放在那儿，萨姆。
+268. Put it here,
+        放在这儿，
+269. on this shelf.
+        这个架子上。
+270. There we are!
+        我这里.
+271. It's a lovely vase.
+        这只漂亮的花瓶。
+272. Those flowers are lovely, too.
+        这些花也很漂亮啊。
+$课文41 彭妮的提包
+273. Is that bag heavy, Penny?
+        那个提包重吗，彭妮？
+274. Not very.
+        不太重。
+275. Here!
+        放在这儿。
+276. Put it on this chair.
+        把它放在这把椅子上。
+277. What's in it?
+        里面是什么东西？
+278. A piece of cheese.
+        一块乳酪、
+279. A loaf of bread.
+        一块面包、
+280. A bar of soap.
+        一块肥皂、
+281. A bar of Chocolate.
+        一块巧克力、
+282. A bottle of milk.
+        一瓶牛奶、
+283. A pound of sugar.
+        一磅糖、
+284. Half a pound of coffee.
+        半磅咖啡、
+285. A quarter of pound of tea.
+        1/4 磅茶叶
+286. And a tin of tobacco.
+        和一听烟丝。
+287. Is that tin of tobacco for me?
+        那听烟丝是给我的吗？
+288. Well, it's certainly not for me!
+        噢，当然不会给我的！
+$课文43 快点！
+289. Can you make the tea, Sam?
+        你会沏茶吗，萨姆？
+290. Yes, of course I can, Penny.
+        会的，我当然会，彭妮。
+291. Is there any water in this kettle?
+        这水壶里有水吗？
+292. Yes, there is.
+        有水。
+293. Where's the tea?
+        茶叶在哪儿？
+294. It's over there,behind the teapot.
+        就在那儿，茶壶后面。
+295. Can you see it?
+        你看见了吗？
+296. I can see the teapot,
+        茶壶我看见了，
+297. but I can't see the tea.
+        但茶叶没看到。
+298. There it is!
+        那不是么！
+299. It's in front of your!
+        就在你眼前。
+300. Ah yes, I can see it now.
+        噢，是啊，我现在看到了。
+301. Where are the cups?
+        茶杯在哪儿呢？
+302. There are some in the cupboard.
+        碗橱里有几只。
+303. Can you find them?
+        你找得到吗？
+304. Yes. Here they are.
+        找得到。就在这儿呢。
+305. Hurry up, Sam!
+        快，萨姆。
+306. The kettle's boiling!
+        水开了！
+$课文45 老板的信
+307. Can you come here a minute please, Bob?
+        请你来一下好吗？鲍勃？
+308. Yes, sir?
+        什么事，先生？
+309. Where's Pamela?
+        帕梅拉在哪儿？
+310. She's next door.
+        她在隔壁，
+311. She's in her office, sir.
+        在她的办公室里，先生。
+312. Can she type this letter for me?
+        她能为我打一下这封信吗？
+313. Ask her please.
+        请问她。
+314. Yes, sir.
+        好的，先生。
+315. Can you type this letter for the boss please, Pamela?
+        请你把这封信给老板打一下可以吗，帕梅拉？
+316. Yes, of course I can.
+        可以，当然可以。
+317. Here you are.
+        给你这信。
+318. Thank you, Bob.
+        谢谢你，鲍勃。
+319. Bob!
+        鲍勃！
+320. Yes?
+        怎么了？
+321. What's the letter.
+        怎么回事？
+322. I can't type this letter.
+        我打不了这封信。
+323. I can't read it!
+        我看不懂这封信，
+324. The boss's handwriting is terrible!
+        老板的书写太糟糕了！
+$课文47 一杯咖啡
+325. Do you like coffee, Ann?
+        你喜欢咖啡吗，安？
+326. Yes, I do.
+        是的，我喜欢。
+327. Do you want a cup?
+        你想要一杯吗？
+328. Yes, please, Christine.
+        好的，请来一杯，克里斯廷。
+329. Do you want any sugar?
+        你要放些糖吗？
+330. Yes, please.
+        好的，请放一些。
+331. Do you want any milk?
+        要放些牛奶吗？
+332. No, thank you.
+        不了，谢谢。
+333. I don't like milk in my coffee.
+        我不喜欢咖啡中放牛奶，
+334. I like black coffee.
+        我喜欢咖啡。
+335. Do you like biscuits?
+        你喜欢饼干吗？
+336. Yes. I do.
+        是的，我喜欢。
+337. Do you want one?
+        你想要一块吗？
+338. Yes, please.
+        好的，请来一块。
+$课文49  在肉店
+339. Do you want any meat today.Mrs. Bird?
+        您今天要买点肉吗，伯德夫人？
+340. Yes, please.
+        是的，我买一点。
+341. Do you want beef or lamb?
+        您要牛肉还是要羔羊肉？
+342. Beef, please.
+        请给我牛肉。
+343. This lamb's very good.
+        这羔羊肉很好。
+344. I like lamb,
+        我喜欢羔羊肉，
+345. but my husband doesn't.
+        可我丈夫不喜欢。
+346. What about some steak?
+        来点牛排吗？
+347. This is a nice piece.
+        这块很好。
+348. Give me that piece, please.
+        就请给我那块吧。
+349. And a pound of mince, too.
+        再来一磅绞肉。
+350. Do you want a chicken,Mrs. Bird?
+        您要买只鸡吗，
+351. They 're very nice.
+        这些鸡很好。
+352. No, thank you.
+        不要了，谢谢。
+353. My husband likes steak,
+        我丈夫喜欢牛排，
+354. but he doesn't like chicken.
+        但他不喜欢鸡。
+355. To tell you the truth,Mrs. Bird,
+        说老实话，
+356. I don't like chicken either!
+        我也不喜欢鸡。
+$课文51 宜人的气候
+357. Where do you come from?
+        你是哪国人？
+358. I come from Greece.
+        我是希腊人。
+359. What's the climate like in your country?
+        你们的国家的气候是怎么样？
+360. It's very pleasant.
+        气候非常宜人。
+361. What's the weather like in spring?
+        春季的天气怎么样？
+362. It's often windy in March.
+        3月里常常刮风。
+363. It's always warm in April and May,
+        4月和5月的天气总暖洋洋的，
+364. but it rains sometimes.
+        但有时下雨。
+365. What's it like in summer?
+        夏季的天气如何呢？
+366. It's always hot in June, July and August.
+        6月、7月和8月的天气总是炎热的
+367. The sun shines every day.
+        每天都出太阳。
+368. Is it cold or warm in autumn?
+        秋季的天气是冷还是暖呢？
+369. It's always warm in September and October.
+        9月和10月总是很暖和，
+370. It's often cold in November and it rains sometimes.
+        11月常常就冷了，而且有时下雨。
+371. Is it very cold in winter?
+        冬季的天气很冷吗？
+372. It's often cold in December, January and February.
+        12月、1月和2月常常很冷，
+373. It snows sometimes.
+        有时还下雪。
+$课文53 有趣的气候
+374. Where do you come from?
+        你是哪国人？
+375. I come from England.
+        我是英国人。
+376. What's the climate like in your country?
+        你们国家的气候怎么样？
+377. It's mild,
+        气候温和，
+378. but it's not always pleasant.
+        但也不总是宜人的。
+379. The weather's often cold in North
+        北部的天气常常寒冷，
+380. and windy in the East.
+        东部则常常利风。
+381. It's often wet in the West and sometimes warm in the south.
+        西部常下雨，南部有时则很暖和。
+382. Which seasons do you like best?
+        你最喜欢哪些季节？
+383. I like spring and summer.
+        我最喜欢春季和夏季。
+384. The days are long and the night are short.
+        因为此时白天长而夜晚短，
+385. I don't like autumn and winter.
+        我不喜欢秋季和冬季。
+386. The days are short and the nights are long.
+        因为此时白天短而夜晚长，
+387. The sun rises late and set early.
+        太阳升得迟而落得早。
+388. Our climate is not very good,
+        虽然我们国家的气候并不很好，
+389. but it's certainly interesting.
+        但又确实很有意思。
+390. It's our favourite subject of conversation.
+        天气是我们最喜欢谈论的话题。
+$课文55 索耶一家人
+391. The Sawyer live at 87 King Street.
+        索耶一家住在国王街87号。
+392. In the morning, Mr. Sawyer goes to work and the children go to school.
+        早上，索耶先生去上班，孩子们去上学。
+393. Mrs. Sawyer stays at home every day.
+        索耶夫人每天呆在家里。
+394. She does the housework.
+        她料理家务。
+395. She always eats her lunch at noon.
+        她总是在正午吃午饭。
+396. In the afternoon, she usually sees her friends.
+        下午，她总是会见她的朋友。
+397. They often drink tea together.
+        她们经常在一起喝茶。
+398. In the evening, the children come home from school.
+        傍晚，孩子们放学回家。
+399. They arrive home early.
+        他们到家很早。
+400. Mr. Sawyer comes home from work.
+        索耶先生下班回家。
+401. He arrives home late.
+        他到家很晚。
+402. At night, the children always do their homework.
+        晚上，孩子们总是做作业，
+403. Then they go to bed.
+        然后去睡觉。
+404. Mr. Sawyer usually reads his newspaper,
+        索耶先生总是读报纸，
+405. but sometimes he and his wife watch television.
+        但有时和他的妻子一起看电视。
+$课文57 很不平常的一天
+406. It is eight o'clock.
+        现在是8点钟。
+407. The children go to school by car every day,
+        孩子们每天都乘小汽车去上学，
+408. but today, they are going to school on foot.
+        而今天，他们正步行上学。
+409. It is ten o'clock. Mrs. Sawyer usually stays at home in the morning,
+        现在是10点钟。上午，索耶夫人通常是呆在家里的，
+410. but this morning, she is going to the shops.
+        但今天上午，她正去商店买东西。
+411. It is four o'clock.
+        现在是4点钟，
+412. In the afternoon, Mrs. Sawyer usually drinks tea in the living room.
+        下午，索耶夫人通常是在客厅里喝茶，
+413. But this after, she is drinking tea in the garden.
+        但今天下午，她正在花园里喝茶。
+414. It is six o'clock.
+        现在是6点钟。
+415. In the evening, the children usually do their homework,
+        晚上，孩子们通常是做作业，
+416. but this evening, they are not doing their homework.
+        而今天晚上，他们没做企业。
+417. At the moment, they are playing in the garden.
+        此刻，他们正在花园里玩。
+418. It is nine o'clock.
+        现在是9点钟。
+419. Mr. Sawyer usually reads his newspaper at night.
+        索耶先生通常是在晚上看报，
+420. But he's not reading his newspaper tonight.
+        但今天晚上他没看报。
+421. At the moment, he's reading an interesting book.
+        此刻，他正在看一本有趣的书。
+$课文59 就这些吗？
+422. I want some envelopes,please.
+        请给我拿几个信封。
+423. Do you want the large size or the small size?
+        您要大号的还是小号的？
+424. The large size, please.
+        请拿大号的。
+425. Do you have any writing paper?
+        您有信纸吗？
+426. Yes, we do.
+        有。
+427. I don't have any small pads.
+        我没有小本的信纸，
+428. I only have large one.
+        只有大本的。
+429. Do you want a pad?
+        您要一本吗？
+430. Yes, please.
+        好，请拿一本。
+431. And I want some glue.
+        我还要些胶水。
+432. A bottle of glue.
+        一瓶胶水。
+433. And I want a large box of chalk, too.
+        我还要一大盒粉笔。
+434. I only have small boxes.
+        我只有小盒的。
+435. Do you want one?
+        您要一盒吗？
+436. No, thank you.
+        不了，谢谢。
+437. Is that all?
+        就要这些吗？
+438. That's all, thank you.
+        就这些，谢谢。
+439. What else do you want?
+        您还要什么吗？
+440. I want my change.
+        我要找的零钱。
+$课文61 重感冒
+441. Where's Jimmy?
+        吉米在哪儿？
+442. He's in bed.
+        他躺在床上。
+443. What's the matter with him?
+        他怎么啦？
+444. He feels ill.
+        他觉得不舒服。
+445. He looks ill.
+        他看上去是病了。
+446. We must call the doctor.
+        我们得去请医生。
+447. Yes, we must.
+        是的，一定得请。
+448. Can you remember the doctor's telephone number?
+        你还得医生的电话号码吗？
+449. Yes.It's 09754.
+        记得。是09754。
+450. Open your mouth, Jimmy.
+        把嘴张开，吉米。
+451. Show me your tongue.
+        让我们看看你的舌头。
+452. Say, "Ah'.
+        说“啊--”
+453. What's the matter with him, doctor?
+        他得了什么病，医生？
+454. He has a bad cold,Mr. Williams,
+        他得了重感冒，威廉斯先生，
+455. so he must stay in bed for a week.
+        因此他必须卧床一周。
+456. That's good new for Jimmy.
+        对吉米来说，这可是个好消息。
+457. Good news?Why?
+        好消息？为什么？
+458. Because he doesn't like school!
+        因为他不喜欢上学。
+$课文63  谢谢你，医生
+459. How's Jimmy today?
+        吉米今天怎么样了？
+460. Better. Thank you,Doctor.
+        他好些了。谢谢您，医生。
+461. Can I see him please,Mrs. Williams?
+        我可以看看他吗，威廉斯夫人？
+462. Certainly, doctor.
+        当然可以，医生。
+463. Come up stairs.
+        上楼吧。
+464. You look very well,Jimmy.
+        你看上去很好，吉米。
+465. You are better now,
+        你现在好些了，
+466. but you mustn't get up yet.
+        但你还不应该起床。
+467. You must stay in bed for another two days.
+        你必须再卧床两天。
+468. The boy mustn't go to school yet,Mr. Williams.
+        这孩子还不能去上学，威廉斯夫人，
+469. And he mustn't eat rich food.
+        而且不能吃油腻的食物。
+470. Does he have a temperature, doctor?
+        他还发烧吗，医生？
+471. No, he doesn't.
+        不，他不发烧了。
+472. Must he stay in bed?
+        他还必须卧床吗？
+473. Yes.He must remain in bed for another two days.
+        是的，他还必须卧床两天。
+474. He can get up for about two hours each day,
+        他每天可以起来两个小时，
+475. but you must keep the room warm.
+        但您必须保持房间温暖。
+476. Where's Mr. Williams this evening?
+        威廉斯先生今晚去哪儿了？
+477. He's in bed, doctor.
+        他在床上呢，医生。
+478. Can you see him please?
+        您能看看他吗？
+479. He has a bad cold, too!
+        他也得了重感冒！
+$课文65  不是一个孩子
+480. What are you going to do this evening. Jill?
+        今晚你打算干什么，吉尔？
+481. I'm going to meet some friends. Dad.
+        我打算去看几个朋友，爸爸。
+482. You mustn't come home late.
+        你不准回家太晚，
+483. You must be home at half past ten.
+        你必须在10点半到家。
+484. I can't get home so early, Dad!
+        这么早我到不了家，爸爸！
+485. Can I have the key to the front door please?
+        我能带上前门的钥匙吗？
+486. No, you can't.
+        不行， 你不能带。
+487. Jill's eighteen years old, Tom.
+        吉尔都18岁了，汤姆。
+488. She's not a baby.
+        她不是小孩子了。
+489. Give her the key.
+        把钥匙给她吧。
+490. She always comes home early.
+        她总早早回家的。
+491. Oh, all right!
+        那么，好吧！
+492. Here you are.
+        拿去。
+493. But you mustn't come home after a quarter past eleven.
+        但你不能超过11点1刻回家。
+494. Do you hear?
+        听见了吗？
+495. Yes. Dad.
+        听见了，爸爸。
+496. Thanks, Mum.
+        谢谢，妈妈。
+497. That's all right.Goodbye.
+        不用谢。再见。
+498. Enjoy yourself!
+        好好玩吧！
+499. We always enjoy ourselves, Mum.
+        我们总是玩得很开心的，妈妈。
+500. Bye-bye.
+        再见。
+$课文67  周末
+501. Hello.Where you at the butcher's?
+        您好。刚才您在肉店里吗？
+502. Yes. I was.
+        是的，我在肉店里。
+503. Were you at butcher's, too?
+        您也在肉店里吗？
+504. No, I wasn't.
+        不， 我不是。
+505. I was at the greengrocer's.
+        我在蔬菜水果店里。
+506. How's Jimmy today? He's very well, thank you.
+        吉米今天怎么样？他很好，谢谢您。
+507. Was he absent from school last week?
+        上星期他没上学吧？
+508. Yes, he was.
+        是的，他没上学。
+509. He was absent on Monday,Tuesday,Wednesday and Tuesday.
+        他星期一、星期二、星期三和星期四没去上学。
+510. How are you all keeping?
+        你们身体都好吗？
+511. Very well, thank you.
+        很好，谢谢您。
+512. We're going to spend three days in the country.
+        我们打算到乡下去三天，
+513. We're going to stay at my mother's for the weekend.
+        在我母亲家度周末。
+514. Friday, Saturday and Sunday in the country!
+        星期五、星期六和星期日在乡下过！
+515. Aren't you lucky!
+        你们真幸运啊！
+$课文69  汽车比赛
+516. There is a car race near our town every year.
+        在我们镇子附近每年都有一场汽车比赛。
+517. In 1995, there was a very big race.
+        1995年举行了一次盛大的比赛。
+518. There were hundreds of people there.
+        许许多多人都去了赛场。
+519. My wife and I were at the race.
+        我和我的妻子也去了。
+520. Our friends Julie and Jack were there, too.
+        我们的朋友朱莉和杰克也去了。
+521. You can see us in the crowd.
+        你可以在人群中看到我们。
+522. We are standing on the left.
+        我们站在左面。
+523. There were twenty cars in the race.
+        参加比赛的有20辆汽车。
+524. There were English cars, French cares, German cars. Italian cars. American cars and Japanese cars.
+        有英国、法国、德国、意大利和日本的汽车。
+525. It was an exciting finish.
+        比赛的结尾是激动人心的。
+526. The winner was Billy Stewart.
+        获胜者是比利.斯图尔特。
+527. He was in car number fifteen.
+        他在第15号车里，
+528. Five other cars were just behind him.
+        其他5辆汽车跟在他后面。
+529. On the way home, my wife said to me,
+        回家的路上,妻子对我说:
+530. 'Don't drive so quickly! You're not Billy Stewart!'
+        “别开得这样快！你可不是比利.斯图尔特！”
+$课文71  他讨厌透了！
+531. What's Ron Marston like,Pauline?
+        波淋，朗.马顿是怎样一个人？
+532. He's awful!
+        他讨厌透了！
+533. He telephoned me four times Yesterday,
+        他昨天给我打了4次电话
+534. and three times the day before yesterday.
+        前天打了3次。
+535. He telephoned the office yesterday morning and yesterday afternoon.
+        他昨天上午和下午把电话打到了我的办公室，
+536. My boss answered the telephone.
+        是我的老板接的。
+537. What did your boss say to him?
+        你老板是怎么对他说的？
+538. He said, "Pauline is typing letters.She can't speak to you now!"
+        他说：“波淋正在打信，她现在不能同你讲话！”
+539. Then I arrived home at six o'clock yesterday evening.
+        后来，我昨晚6点钟回到家里。
+540. He telephoned again.
+        他又打来电话，
+541. But I didn't answer the phone!
+        但我没接。
+542. Did he telephone again last night?
+        他昨夜里又打电话了吗？
+543. Yes, he did.
+        是的，打了。
+544. He telephoned at nine o'clock.
+        他在9点钟又打电话。
+545. What did you say to him?
+        你对他怎么说的？
+546. I said, 'This is Pauline's mother.
+        我说：“我是波淋的母亲。
+547. Please don't telephone my daughter again!
+        '请不要再给我女儿打电话了！”
+548. Did he telephone again?
+        他又打了没有？
+549. No, he didn't!
+        没有！
+$课文73  到国王街的走法
+550. Last week Mrs. Mills went to London.
+        上星期米尔斯夫人去了伦敦。
+551. She does not know London very well, and she lost her way.
+        她对伦敦不很熟悉，因此迷了路。
+552. Suddenly, she saw a man near a bus stop.
+        突然，她在公共汽车站附近看到一个男人。“
+553. 'I can ask him the way.' she said to herself.
+        我可以向他问路，”她想。
+554. 'Excuse me,' she said. 'Can you tell me the way to King Street, please?'
+        “对不起，您能告诉我到国王街怎么走吗？”她说。
+555. The man smiled pleasantly.
+        这人友好地笑了笑。
+556. He did not understand English!
+        他不懂英语！
+557. He spoke German.
+        他讲德语。
+558. He was a tourist.
+        他是个旅游者。
+559. Then he put his hand into his pocket,
+        然后他把手伸进了衣袋，
+560. and took out a phrasebook.
+        掏出了一本常用语手册。
+561. He opened the book and found a phrase.
+        他翻开书找到了一条短语。
+562. He read the phrase slowly.
+        他缓慢地读着短语。
+563. 'I am sorry,' he said. 'I do not speak English.'
+        ”很抱歉，“他说，”我不会讲英语。”
+$课文75  不舒适的鞋子
+564. Do you have any shoes like these?
+        像这样的鞋子你们有吗？
+565. What size?
+        什么尺码的？
+566. numbe five.
+        5号的。
+567. what color?
+        什么颜色？
+568. Black.
+        黑的
+569. I'm sorry.
+        对不起，
+570. We don't have any.
+        我们没有。
+571. But my sister bought this pair last month.
+        但是，我姐姐上个月买到了这样的一双。
+572. Did she buy them here?
+        她是在这儿买的吗？
+573. No, she bought them in the U.S.
+        不。她是在美国买的。
+574. We had some shoes like those a month ago,
+        一个月前我们有这要的鞋。
+575. but we don't have any now.
+        但是现在没有了。
+576. Can you get a pair for me, please?
+        您能为我找一双吗？
+577. I'm afraid that I can't.
+        恐怕不行。
+578. They were in fashion last year and the year before last.
+        这鞋在去年和前年时兴，
+579. But they're not in fashion this year.
+        而今年已不流行了。
+580. These shoes are in fashion now.
+        现在流行的是这种鞋子。
+581. They look very uncomfortable.
+        这种鞋子看上去很不舒适。
+582. They are very uncomfortable.
+        的确很不舒适。
+583. But women always wear uncomfortable shoes!
+        可是女人们总是穿不舒适的鞋子！
+$课文77  要命的牙痛
+584. Good morning. Mr. Croft.
+        早上好，克罗夫特先生。
+585. Good morning, nurse.
+        早上好，护士。
+586. I want to see the dentist,please.
+        我想见牙科医生。
+587. Do you have an appointment?
+        您约好了吗？
+588. No, I don't.
+        没有。
+589. Is it urgent?
+        急吗？
+590. Yes, it is.
+        是的，
+591. It's very urgent.
+        很急。
+592. I feel awful.
+        我难受极了，
+593. I have a terrible toothache.
+        牙痛得要命。
+594. Can you come at 10 a.m.on Monday, April 24th?
+        您在4月24日星期一上午10点钟来行吗？
+595. I must see the dentist now,nurse.
+        我必须现在就见牙科医生，护士。
+596. The dentist is very busy at the moment.
+        牙科医生这会儿很忙。
+597. Can you come at 2 p.m.?
+        您下午两点钟来行吗？
+598. That's very late.
+        那就太晚了。
+599. Can the dentist see me now?
+        牙科医生现在就不能给我看一下吗？
+600. I'm afraid that he can't,Mr. Croft.
+        恐怕不能，克罗夫特先生。
+601. Can't you wait till this afternoon?
+        您就不能等到今天下午吗？
+602. I can wait, but my toothache can't!
+        我倒是可以等。可是我的牙痛等不了啊！
+$课文79  卡罗尔的购物单
+603. What are you doing, Carol?
+        卡罗尔，你在干什么？
+604. I'm making a shopping list, Tom.
+        我在写购物单，汤姆。
+605. What do we need?
+        我们都需要什么？
+606. We need a lot of thing this week.
+        这星期我们需要很多东西。
+607. I must go to the grocer's.
+        我得去一下食品店。
+608. We haven't got much tea or coffee,
+        我们的茶叶和咖啡不多了，
+609. and we haven't got any sugar or jam.
+        糖和果酱也没有了。
+610. What about vegetables?
+        蔬菜呢？
+611. I must go to the greengrocer's.
+        我还得到蔬菜水果店去一下。
+612. We haven't got many tomatoes,
+        我们番茄不多了，
+613. but we've got a lot of potatoes.
+        但土豆还有不少。
+614. I must go to the butcher's, too.
+        我还要到肉店去一下。
+615. We need some meat.
+        我们需要些肉。
+616. We haven't got any meat at all.
+        我们一点肉也没有了。
+617. Have we got any beer and wine?
+        我们还有啤酒和葡萄酒吗？
+618. And I'm not going to get any!
+        没有了。不过，我不打算去买！
+619. I hope that you've got some money.
+        我希望你还有钱。
+620. I haven't got much.
+        我的钱不多了。
+621. Well, I haven't got much either!
+        唉，我也不多了。
+$课文81  烤牛肉和土豆
+622. Hi, Carol!Where's Tom?
+        你好，卡罗尔！汤姆在哪儿？
+623. He's upstairs.
+        他在楼上。
+624. He's having a bath.
+        他正在洗澡。汤姆！
+625. Tom!Yes?
+        什么事？
+626. Sam's here.
+        萨姆来了。
+627. I'm nearly ready.
+        我马上就好。
+628. Hello, Sam.
+        你好，萨姆。
+629. Have a cigarette.
+        请抽烟。
+630. No, thanks, Tom.
+        不，谢谢，汤姆。
+631. Have a glass of whisky then.
+        那么，来杯威士忌吧。
+632. OK. Thanks.
+        好的，谢谢。
+633. Is dinner ready, Carol?
+        卡罗尔，饭好了吗？
+634. It's nearly ready.
+        马上就好。
+635. We can have dinner at seven o'clock.
+        7点钟我们可以吃饭。
+636. Sam and I had lunch together today.
+        我和萨姆今天一起吃的午饭。
+637. We went to a restaurant.
+        我们去了一家饭店。
+638. What did you have?
+        你们吃了什么？
+639. We had roast beef and potatoes.
+        我们吃的是烤牛肉和土豆。
+640. Oh!
+        噢！
+641. What's the matter, Carol?
+        怎么了，卡罗尔？
+642. Well, you're going to have roast beef and potatoes again tonight!
+        唉，今晚你们又要吃烤牛肉和土豆了！
+$课文83  度假
+643. Hello, Sam.Come in.
+        你好，萨姆。进来吧。
+644. Hi, Sam.
+        你好，萨姆。
+645. We're having lunch.
+        我们正在吃午饭，
+646. Do you want to have lunch with us?
+        你跟我们一起吃午饭好吗？
+647. No, thank you. Tom.
+        不，汤姆，谢谢。
+648. I've already had lunch.
+        我已经吃过饭了。
+649. I had a lunch at half past twelve.
+        我在12点半吃的。
+650. Have a cup of coffee then.
+        那么喝杯咖啡吧。
+651. I've just had a cup, thank you.
+        我刚喝了一杯，谢谢。
+652. I had one after my lunch.
+        我是在饭后喝的。
+653. Let's go into the living room,Carol.
+        我们到客厅里去吧，卡罗尔。
+654. We can have our coffee there.
+        我们可以在那里喝咖啡。
+655. Excuse the mess, Sam.
+        屋子很乱，请原谅，萨姆。
+656. This room's very untidy.
+        诚心诚意里乱七八糟。
+657. We're packing our suitcases.
+        我们正在收拾手提箱。
+658. We're going to leave tomorrow.
+        明天我们就要走了。
+659. Tom and I are going to have a holiday.
+        我和汤姆准备去度假。
+660. Aren't you lucky!
+        你们真幸运！
+661. When are you going to have a holiday, Sam?
+        萨姆，你准备什么时候去度假？
+662. I don't know.
+        我不知道。
+663. I've already had my holiday this year.
+        今年我已度过假了。
+664. Where did you go?
+        你去哪儿了？
+665. I stayed at home!
+        我呆在这里了！
+$课文85  巴黎之春
+666. Hello, Ken.
+        你好，肯。
+667. Hi, George.
+        你好，乔治。
+668. Have you just been to the cinema?
+        你刚去过电影院吗？
+669. Yes, I have.
+        是的，我刚去过。
+670. What's on?
+        上映什么片子？
+671. 'Paris in the spring'.
+        《巴黎之春》。
+672. Oh, I've already seen it.
+        噢，我已看过了。
+673. I saw it on television last year.
+        我是去年在电视上看的。
+674. It's an old film, but it's very good.
+        这是老部片子，但很好。
+675. Paris is a beautiful city.
+        巴黎是座美丽的城市。
+676. I've never been there.
+        我从未去过。
+677. Have you ever been there, Ken?
+        肯，你去过吗？
+678. Yes, I have. I was there in April.
+        是的，我去过。4月份我在那儿。
+679. Pairs in the spring, eh?
+        那是巴黎之春，是吗？
+680. It was spring,
+        是春天，
+681. but the weather was awful.
+        但天气太糟了。
+682. It rained all the time.
+        一直在下雨。
+683. Just like London!
+        就像伦敦一样！
+$课文87  车祸
+684. Is my car ready yet?
+        我的汽车修好了吗？
+685. I don't know. sir.
+        我不知道，先生。
+686. What's the number of your car?
+        您的汽车牌号是多少？
+687. It is LFZ 312G.
+        是 LFZ312G。
+688. When did you bring it to us?
+        您什么时候送来的？
+689. I brought it here three days ago.
+        3天前。
+690. Ah, yes, I remember now.
+        啊，是的，我现在记起来了。
+691. Have your mechanics finished yet?
+        你们的机械师修好了吗？
+692. No, they're still working on it.
+        没有，他们还在修呢。
+693. Let's go into the garage and have a look at it.
+        我们到车库去看一下吧。
+694. Isn't that your car?
+        这难道不是您的车吗？
+695. Well, it was my car.
+        唔，这曾是我的车。
+696. Didn't you have a crash?
+        难说您没有出车祸吗？
+697. That's right.
+        是啊。
+698. I drove it into a lamp-post.
+        我把汽车撞在电线杆上了。
+699. Can your mechanics repair it?
+        你们的机械师能修好吗？
+700. Well, they're trying to repair it,sir.
+        啊，他们正设法修呢，先生。
+701. But to tell you the truth.
+        不过说实在的，
+702. you need a new car!
+        您需要一辆新车了。
+$课文89  待售
+703. Good afternoon.
+        下午好。
+704. I believe that this house is for sale. That's right.
+        我想这房子是要出售的吧！是的。
+705. May I have a look at it, please?
+        我可以看一看吗？
+706. Yes, of course. Come in.
+        可以，当然可以。请进。
+707. How long have you lived here?
+        您在这里住了多长时间？
+708. I've live here for twenty years.
+        我在这里住了20年了。
+709. Twenty years!
+        20年！
+710. That's long time.
+        这个时间可不短。
+711. Yes, I've been here since 1976.
+        1976.是啊，从1976年起我就住在这里。
+712. Then why do you want to sell it?
+        那么，您为什么要卖掉它呢？
+713. Because I've just retired.
+        因为我刚退休。
+714. I want to buy a small house in the country.
+        我想在乡下买幢小房子。
+715. How much does this house cost?
+        这座房子卖多少钱？
+716. that's a lot of money.
+        我可真是一大笔钱呢！
+717. it's worth every penny of it.
+        它确确实实值这么多钱。
+718. Well, I like the house.
+        啊，我喜欢这房子，
+719. but I can't decide yet.
+        但我还不能决定。
+720. My wife must see it first.
+        我妻子必须先来看一看。
+721. Women always have the last word.
+        女人总是最后说了算的。
+$课文91  可怜的伊恩！
+722. Has Ian sold his house yet?
+        伊恩已指他的房子卖掉了吗？
+723. Yes, he has.
+        是的，卖掉了。
+724. He sold it last week.
+        他上星期卖掉的。
+725. Has he moved to his new house yet?
+        他已经迁进新居了吗？
+726. No, not yet.
+        不，还没有。
+727. He's still here.
+        他仍在这里。
+728. He's going to move tomorrow.
+        他打算明天搬家。
+729. When? Tomorrow morning.
+        什么时候？明天上午吗？
+730. No. Tomorrow afternoon.
+        不，明天下午。
+731. I'll miss him.
+        我会想念他的。
+732. He has always been a good neighbour.
+        他一直是个好邻居。
+733. He's a very nice person.
+        他是个非常好的人，
+734. We'll all miss him.
+        我们大学都会想念他的。
+735. When will the new people move into this house?
+        新住户什么时候搬进这所房子？
+736. I think that they'll move in the day after tomorrow.
+        我想他们将会在后天搬进来吧。
+737. Will you see Ian today,Jenny?
+        詹尼，您今天会见到伊恩吗？
+738. Yes, I will.
+        是的，我会见到他。
+739. Please give him my regards.
+        请代我问候他。
+740. Poor Ian!
+        可怜的伊恩！
+741. He didn't want to leave this house.
+        他本不想离开这幢房子。
+742. No, he didn't want to leave.
+        是啊，他是不想离开，
+743. but his wife did!
+        可是他妻子要离开。
+$课文93  我们的新邻居
+744. Nigel is our new next-door neighbour.
+        奈杰尔是我们新搬来的隔壁邻居。
+745. He's a pilot.
+        他是个飞行员。
+746. He was in the R.A.F.
+        他曾在皇家空军任职。
+747. He will fly to New York next month.
+        下个月他将飞往纽约。
+748. The month after next he'll fly to Tokyo.
+        再下个月他将飞往东京。
+749. At the moment, he's in Madrid.
+        现在他在马德里。
+750. He flew to Spain a week ago.
+        他是一星期以前飞到西班牙的。
+751. He'll return to London the week after next.
+        再下个星期他将返回伦敦。
+752. He's only forty-one years old,
+        他只有41岁，
+753. and he has already been to nearly every country in the world.
+        但他却过世界上几乎每一个国家。
+754. Nigel is a very lucky man.
+        奈杰尔是个很幸运的人。
+755. But his wife isn't very lucky. She usually stays at home!
+        但他的妻子运气不很好。他总是呆在家里！
+$课文95  请把车票拿出来。
+756. Two return tickets to London,please.
+        买两张到伦敦的往返票。
+757. What time will the next train leave?
+        下一班火车什么时候开？
+758. At nineteen minutes past eight.
+        8点19分。
+759. Which platform?
+        在哪个站台？
+760. Platform Two.Over the bridge.
+        2号站台。过天桥。
+761. What time will the next train leave?
+        下一班火车什么时候开？
+762. At eight nineteen.
+        8点19分。
+763. We've got plenty of time.
+        我们时间还很宽裕。
+764. It's only three minutes to eight.
+        现在才7点57分。
+765. Let's go and have a drink.
+        让我们去喝点东西吧，
+766. There's a bar next door to the station.
+        车站旁有一个酒吧。
+767. We had better go back to the station now, Ken.
+        肯，我们现在最好回车站去。
+768. Tickets, please.
+        请把车票拿出来。
+769. We want to catch the eight nineteen to London.
+        我们要乘8点19分的车去伦敦。
+770. You've just missed it!
+        你们刚好错过了那班车。
+771. What! It's only eight fifteen.
+        什么！现在只有8点15分。
+772. I'm sorry, sir.
+        对不起，先生，
+773. That clock's ten minutes slow.
+        那个钟慢了10分钟。
+774. When's the next train?
+        下一班车是什么时候？
+775. In five hours' time!
+        5个小时以后！
+$课文97  一只蓝色的小箱子
+776. I left a suitcase on the train to London the other day.
+        几天前我把一只手提箱忘在开往伦敦的火车上了。
+777. Can you describe it, sir?
+        先生，您能描述一下它是什么样子的吗？
+778. It's a small blue case and it's got a zip.
+        是只蓝色的小箱子，上面有拉链。
+779. There's a label on the handle with my name and address on it.
+        箱把上有一标签，上面写着我的姓名和住址。
+780. Is this case yours?
+        这箱子是您的吗？
+781. No, that's not mine.
+        不，那不是我的。
+782. What about this one?
+        这只是不是？
+783. This one's got a label.
+        这只箱子有张标签。
+784. Let me see it.
+        让我看看。
+785. What's your name and address?
+        您的姓名和住址？
+786. David Hall,83 Bridge Street.
+        大卫.霍尔，大桥路83号。
+787. That's right. D.N. Hall, 83 Bridge Street.
+        那就对了。D.N.霍尔，大桥路83号。
+788. Three pounds fifty pence,please.
+        请付3英镑50便士。
+789. Here you are. Thank you.
+        给您。谢谢。
+790. Key!
+        嗨！
+791. What's matter?
+        怎么回事？
+792. This case doesn't belong to me!
+        这箱子不是我的！
+793. You've given me the wrong case!
+        您给错了！
+$课文99  啊哟！
+794. Ow!
+        啊哟！
+795. What's the matter, Andy?
+        怎么了，安迪？
+796. I slipped and fell downstairs.
+        我滑了一跤，从楼梯上摔下来了。
+797. Have you hurt yourself?
+        你摔伤了没有？
+798. Yes, I have. I think that I've hurt my back.
+        是啊，摔伤了。我想我把背摔坏了。
+799. Try and stand up.
+        试试站起来。
+800. Can you stand up?
+        你能站起来吗？
+801. Here.Let me help you.
+        来，让我帮你。
+802. I'm sorry, Lucy.
+        对不起，露西，
+803. I'm afraid that I can't get up.
+        恐怕我站不起来。
+804. I think that the doctor had better see you.
+        我想最好请医生来给你看一下。
+805. I'll phone Dr. Carter.
+        我去给卡特医生打电话。
+806. The doctor says that he will come at once.
+        医生说他马上就来。安迪，
+807. I'm sure that you need an X-ray, Andy.
+        我看你需要做一次X光透视。
+$课文101  吉米的明信片
+808. Read Jimmy's card to me please, penny.
+        请把吉米的明信片念给我听听，彭妮。
+809. 'I have just arrive in Scotland and I'm staying at a Youth Hostel.'
+        “我刚到苏格兰，我现住在一家青年招待所。”
+810. Eh?
+        什么？
+811. He says he's just arrived in Scotland.
+        他说他刚到苏格兰。
+812. He says he's staying at a Youth Hostel.
+        他说他住在一家青年招待所。
+813. You know he's a member of the Y.H.A.
+        你知道，他是“青招协”的一个成员。
+814. The what?
+        什么？
+815. The Y.H.A., Mum.
+        “青招协”，妈妈。
+816. The Youth Hostels Association.
+        青年招待所协会。
+817. What else does he say?
+        他还说了些什么？
+818. I'll write a letter soon.
+        “我很快会写信的。
+819. I hope you all well.
+        '祝你们大家身体都好。”
+820. What? Speak up. Penny.
+        什么？彭妮，大声一点。
+821. I'm afraid I can't hear you
+        我可听不见你念的。
+822. He say he'll write a letter soon.
+        他说他很快会写信的。
+823. He hopes we are all well.
+        他祝我们大家身体好。
+824. 'Love, Jimmy.'
+        “谨此问候，吉米。”
+825. Is that all?
+        就这些吗？
+826. He doesn't say very much,does he?
+        他没写许多，是吗？
+827. He can't write very much on a card, Mum.
+        在明信片上他写不了很多，妈妈。
+$课文103  法语考试
+828. How was the exam, Richard?
+        考试考得怎样，理查德？
+829. Not too bad.
+        不算太坏，
+830. I think I passed in English and Mathematics.
+        我想我的英语和数学及格了。
+831. The questions were very easy.
+        题目很容易。加里，
+832. How about you, Gary?
+        你怎么样？
+833. The English and Maths papers weren't easy enough for me.
+        英语和数学试题对我来说不很容易。
+834. I hope I haven't failed.
+        我希望别不及格。
+835. I think I failed the French paper.
+        我想我的法语及不了格，
+836. I could answer sixteen of the question.
+        我能回答其中的16道题。
+837. They were very easy.
+        这些题很容易。
+838. But I couldn't answer the rest.
+        但我回答不出其作的题。
+839. They were too difficult for me.
+        那些题对我来说太难了。
+840. French test are awful, aren't they?
+        法语太可怕了，你说呢？
+841. I hate them.
+        我讨厌法语。
+842. I'm sure I've got a low mark.
+        我的法语成绩肯定很低。
+843. Oh, cheer up!
+        啊，别灰心！
+844. perhaps we didn't to do badly.
+        或许我们考得还不太糟。
+845. The guy next to me Wrote his name at the top of the paper.
+        坐在我旁边的那个人只在试卷顶端写自己的名字。
+846. Yes?
+        是吗？
+847. Then he sat there and looked at it for three hours!
+        然后他就坐在那里，对着考卷看了3个小时，
+848. He didn't write a word!
+        一个字也没写！
+$课文105  错误百出
+849. Where's Sandra, Bob?
+        鲍勃，桑德拉在哪儿？
+850. I want her.
+        我要找她。
+851. Do you want to speak to her?
+        您要同她谈话吗？
+852. Yes, I do. I want her to come to my office.
+        是的，我要她到我的办公室来。
+853. Tell her to come at once.
+        叫她马上就来。
+854. Did you want to see me?
+        您找我吗？
+855. Ah, yes, Sandra.
+        啊，是的，桑德拉。"
+856. How do you spell "intelligent'?
+        intelligent" 怎样拼写？
+857. Can you tell me?
+        你能告诉我吗？
+858. I-N-T-E-L-L-I-G-E-N-T.
+        I-N-T-E-L-L-I-G-E-N-T。
+859. That's right. You've typed it with only one 'L'.
+        对的。但你只打了1个“L”。
+860. This letter's full of mistakes.
+        这封信里错误百出。
+861. I want you to type it again.
+        我要你重打一遍。
+862. Yes, I'll do that.
+        是，我重打。
+863. I'm sorry about that.
+        对此我感到很抱歉。
+864. And here's a little present for you.
+        这里有一件小礼物送你。
+865. What's it?
+        是什么？
+866. It's a dictionary.
+        是本词典。
+867. I hope it'll help you.
+        我希望它能对你有所帮助。
+$课文107  太小了。
+868. Do you like this dress,madam?
+        夫人，您喜欢这件衣服吗？
+869. I like the colour very much.
+        我很喜欢这颜色。
+870. It's lovely dress,
+        这件漂亮的衣服，
+871. but it's too small for me.
+        可是对我来说太小了。
+872. What about this one? It's a lovely dress.
+        这件怎么样？这是件漂亮的衣服。
+873. It's very smart.
+        它很时髦。
+874. Short skirts are in fashion now.
+        短裙现在很流行。
+875. Would you like to try it?
+        您要试一试吗？
+876. All right.
+        好吧。
+877. I'm afraid this green dress it too small for me as well.
+        恐怕这件绿色的我穿着也太小了。
+878. It's smaller than the blue one.
+        它比那件蓝色的还要小。
+879. I don't like the colour either.
+        我也不喜欢这种颜色。
+880. It doesn't suit me at all.
+        这颜色我穿根本不合适。
+881. I think the blue dress is prettier.
+        我认为那件蓝色的更漂亮些。
+882. Could you show me another blue dress?
+        您能再给我看一件蓝色的吗？
+883. I want a dress like that one,
+        我想一件和那件一样的，
+884. but it must be my size.
+        但必须是我的尺寸。
+885. I'm afraid I haven't got a larger dress.
+        恐怕没有更大的了。
+886. This is the largest dress in the shop.
+        这是店里最大一件。
+$课文109  好主意
+887. Shall I make some coffee,Jane?
+        我来煮点咖啡好吗，简？
+888. That's a good idea, Charlotte.
+        这是个好主意，夏洛特。
+889. It's ready.
+        咖啡好了，
+890. Do you want any milk?
+        你要放点奶吗？
+891. Just a little, please.
+        请稍加一点。
+892. What about some sugar?
+        加些糖怎么样？
+893. Two teaspoonfuls?
+        两茶匙行吗？
+894. No, less than that.
+        不，再少一些。
+895. One and a half teaspoonfuls, please.
+        请放一勺儿半。
+896. That's enough for me.
+        那对我已足够了。
+897. That was very nice.
+        太好了。
+898. Would you like some more?
+        你再来点吗？
+899. Yes, please.
+        好的，请再来一点。
+900. I'd like a cigarette, too.
+        我还想抽枝烟。
+901. May I have one?
+        可以给我一枝吗？
+902. Of course.
+        当然可以。
+903. I think there are a few in that box.
+        我想那个盒子里有一些。
+904. I'm afraid it's empty.
+        恐怕盒子是空的。
+905. What a pity!
+        真遗憾！
+906. It doesn't matter.
+        没关系。
+907. Have a biscuit instead.
+        那就吃块饼干吧。
+908. Eat more and smoke less!
+        多吃点，少抽点！
+909. That's very good advice!
+        这是极好的忠告啊！
+$课文111  最昂贵的型号
+910. I like this television very much.
+        我非常喜欢这台电视机。
+911. How much does it cost?
+        请问它多少钱？
+912. It's the most expensive model in the shop.
+        这是店里最贵的型号。
+913. It costs five hundred pounds.
+        它的售价是500英镑。
+914. That's too expensive for us.
+        这对我们来说是太贵了。
+915. We can't afford all that money.
+        我们花不起那么多钱。
+916. This model's less expensive than that one.
+        这种型号比那种要便宜些。
+917. It's only three hundred pounds.
+        它只要300英镑。
+918. But, of course, it's not as good as the expensive one.
+        但是，它当然没有价钱高那种好。
+919. I don't like the model.
+        我不喜欢这种型号。
+920. The other model's more expensive,
+        那种型号价格是贵一些，
+921. but it's worth the money.
+        但它值得那么多钱。
+922. Can we buy it on instalments?
+        我们可以用分期付款的方式购买吗？
+923. Of course. You can pay a deposit of thirty pounds,
+        当然可以。您可以先付30英镑定金。
+924. and then fourteen pounds a month for three years.
+        然后每月14镑,3年付清。
+925. Do you like it, dear?
+        你喜欢吗，亲爱的？
+926. I certainly do,
+        我当然喜欢，
+927. but I don't like the price.
+        但是我不喜欢这个价钱。
+928. You always want the best,
+        你总是要买最好的，
+929. but we can't afford it.
+        可我们买不起，
+930. Sometimes you think you're a millionaire!
+        有时候你认为自己是个百万富翁！
+931. Millionaires don't buy things on instalments!
+        百万富翁是不会分期付款买东西的！
+$课文113  零钱
+932. Fares, please!
+        请买票！
+933. Trafalgar Square,please.
+        请买一张到特拉法加广场的票。
+934. I'm sorry, sir. I can't change a ten-pound note.
+        对不起，我找不开10英镑的钞票。
+935. Haven't you got any small change?
+        您没有零钱吗？
+936. I've got no small change, I am afraid.
+        恐怕我没有零钱。
+937. I'll ask some of the passengers.
+        我来问问其他乘客。
+938. Have you any small change, sir?
+        先生，您有零钱吗？
+939. I'm sorry. I've got none.
+        对不起，我没有。
+940. I haven't got any either.
+        我也没有。
+941. Can you change this ten-pound note, madam?
+        夫人，您能把这10英镑的钞票换开吗？
+942. I'm afraid I can't.
+        恐怕不能。
+943. Neither can I.
+        我也不能。
+944. I'm very sorry, sir.
+        非常抱歉，先生。
+945. You must get off the bus.
+        您必须下车。
+946. None of our passengers can change this note.
+        我们的乘客中没人能换开这张钞票。
+947. They're all millionaires!
+        他们都是百万富翁！
+948. Except us.
+        我们俩除外。
+949. I've got some small change.
+        我有零钱。
+950. So have I.
+        我也有。
+$课文115  敲敲门！
+951. Isn't there anyone at home?
+        家里没有人吗？
+952. I'll knock again, Helen.
+        海伦，我再敲一次。
+953. Everything's very quiet.
+        毫无动静，
+954. I'm sure there's no one at home.
+        肯定家里没有人。
+955. But that's impossible.
+        但这是不可能的。
+956. Carol and Tom invited us to lunch.
+        卡罗尔和汤姆请我们来吃午饭。
+957. Look through the window.
+        从窗子往里看看。
+958. Can you see anything?
+        你能看见什么吗？
+959. Nothing at all.
+        什么也看不见。
+960. Let's try the back door.
+        让我们到后门去试试。
+961. Look! Everyone's in the garden.
+        瞧！大家都在花园里。
+962. Hello, Helen. Hello, Jim.
+        你好，海伦。你好，吉姆。
+963. Everybody wants to have lunch in the garden.
+        大家都想在花园里吃午饭。
+964. It's nice and warm out here.
+        这外面挺暖和。
+965. Come and have something to drink.
+        来喝点什么。
+966. Thanks, Carol.
+        谢谢，卡罗尔。
+967. May I have a glass of beer please?
+        给我一杯啤酒好吗？
+968. Beer?
+        啤酒？
+969. There's none left.
+        一点都不剩了。
+970. You can have some lemonade.
+        你可以喝点柠檬水。
+971. Lemonade!
+        柠檬水！
+972. Don't believe her, Jim.She's only joking.
+        吉姆，别信她的。
+973. Have some beer!
+        喝点啤酒吧！
+$课文117  汤米的早餐
+974. When my husband was going into the dining room this morning,
+        今天早晨我丈夫走进饭厅时，
+975. he dropped some coins on the floor.
+        把一些硬币掉在地上了。
+976. There were coins everywhere.
+        到处都是硬币。
+977. We looked for them, but we could not find them all.
+        我们虽然找了，但没有把它们全部找到。
+978. While we were having breakfast, our little boy, Tommy, found two small coins on the floor.
+        正当我们吃早饭时，我们的小男孩汤米在地上找到两枚小硬币。
+979. He put them both into his mouth.
+        他把这两枚硬币全都放进嘴里。
+980. We both tried to get the coins, but it was too late.
+        我们俩都试图把这两枚硬币拿出来，但太迟了。
+981. Tommy had already swallowed them!
+        汤米已经把硬币咽了下去！
+982. Late that morning, when I was doing the housework, My husband phoned me from the office.
+        那天下午的晚些时候，当我正做家务时，我丈夫从办公室打来电话。
+983. 'How's Tommy?' he asked.
+        “汤米怎么样？”他问。
+984. 'I don't know,' I answered,
+        “我不知道”，我回答说，
+985. 'Tommy's been to the toilet three times this morning,
+        “今天上午汤米去了3次厕所了，
+986. but I haven't had any change yet!'
+        但我还没看到硬币！”
+$课文119  一个真实的故事
+987. Do you like stories?
+        你喜欢听故事吗？
+988. I want to tell you a true story.
+        我要告诉你一个真实的故事。
+989. It happened to a friend of mine a year ago.
+        这是一年前发生在我的一个朋友身上的故事。
+990. While my friend, George, was reading in bed, two thieves climbed into his kitchen.
+        当我的朋友乔治在床上看书时，两个小偷爬进了他的厨房。
+991. After they had entered the house, they went into the dining room.
+        他们进到屋里后，走进了饭厅。
+992. It was very dark, so they turned on a torch.
+        饭厅很暗，于是他们打开了手电筒。
+993. Suddenly, they heard a voice behind them.
+        突然他们听到身后有声音。
+994. The thieves dropped the torch and ran away as quickly as they could.
+        小偷扔下了手电筒，飞快地逃走了。
+995. George heard the noise and came downstairs quickly.
+        乔治听到了响声，迅速地下了楼。
+996. He turned on the light, but he couldn't see anyone.
+        他开了灯，但不见一个人。
+997. The thieves had already gone.
+        小偷逃走了。
+998. But George's parrot, Henry, was still there.
+        但时乔治的鹦鹉亨利仍在那里。
+999. 'Nothing, Henry,' George said and smiled.
+        “没事，亨利。”乔治笑着说，
+1000. 'Go back to sleep.'
+        “接着睡觉吧。”
+$课文121  戴帽子的男士
+1001. I bought two expensive dictionaries here half and hour ago,
+        半小时以前我在这里买了两本很贵的辞典，
+1002. but I forgot to take them with me.
+        但是我忘了拿走。
+1003. Who served you, sir?
+        是谁接待您的，先生？
+1004. The lady who is standing behind the counter.
+        站在柜台后面的那位女士。
+1005. Which books did you buy?
+        您买的是两本什么书？
+1006. The books which are on the counter.
+        就是柜台上的那两本。
+1007. Did you serve this gentleman half an hour ago, Caroline?
+        卡罗琳，半小时前你接待过这位先生吗？
+1008. He says he's the man who bought these books.
+        他说他就是买这两本书的人。
+1009. I can't remember.
+        我记不起来了。
+1010. The man who I served was wearing a hat.
+        我接待的那个人戴着一顶帽子。
+1011. Have you got a hat, sir? Yes, I have.
+        先生，您有帽子吗？有的，我有帽子。
+1012. Would you put it on, please? All right.
+        请您把帽子戴上好吗？好吧。
+1013. Is this the man that you served, Caroline?
+        卡罗琳，这就是你接待过的那个人吗？
+1014. Yes.I recognize him now.
+        是他。我现在认出他来了。
+$课文123  澳大利亚之行
+1015. Look, Scott.
+        看，
+1016. This is a photograph I took during my trip to Australia.
+        这是我到澳大利来旅行时拍的一张照片。
+1017. Let me see it, Mike.
+        让我看看，迈克。
+1018. This is a good photograph.
+        这是一张很好的照片。
+1019. Who are these people?
+        这些人是谁。
+1020. They're people I met during the trip.
+        他们是我旅行时认识的人。
+1021. That's the ship we travelled on.
+        这是我们所乘的那条船。
+1022. What a beautiful ship!
+        多漂亮的船啊！
+1023. Who's this?
+        这是谁？
+1024. That's the man I told you about.
+        这就是我跟你说过的那个人。
+1025. Remember?
+        还记得吗？
+1026. Ah yes.
+        啊，记得。
+1027. The one who offered you a job in Australia. That's right.
+        就是在澳大利亚给你工作的那个人。对。
+1028. Who's this?
+        这是谁？
+1029. Guess!
+        你猜！
+1030. It's not you, is it? That's right.
+        这不是你，对吗？不，是我。
+1031. I grew a beard during the trip.
+        我在旅行时留了胡子，
+1032. but I shaved it off when I came home.
+        但我回到家时就把它刮了。
+1033. Why did you shave it off?
+        你为什么把它刮了？
+1034. My wife didn't like it!
+        我妻子不喜欢！
+$课文125  两个人一起喝茶
+1035. Can't you come in and have tea now, Peter?
+        彼得，你现在能进来喝茶吗？
+1036. Not yet.
+        还不能。
+1037. I must water the garden first.
+        我得先给花园浇水。
+1038. Do you have to water it now?
+        你一定得现在浇吗？
+1039. I'm afraid I must.
+        恐怕我得现在浇。
+1040. Look at it!
+        你看看，
+1041. It's terribly dry.
+        干得厉害。
+1042. What a nuisance!
+        真讨厌！
+1043. Last summer it was very dry, too.
+        去年夏天也是干得很。
+1044. Don't you remember?
+        你记得了吗？
+1045. I had to water it every day.
+        我不得不每天浇水。
+1046. Well, I'll have tea by myself.
+        好吧，我一个喝茶了。
+1047. That was quick!
+        好快啊！
+1048. Have you finished already?
+        你已经浇完了？
+1049. Yes. Look out of the window.
+        是的。你看看窗外。
+1050. It's raining!
+        下雨了，
+1051. That means You don't need to water the garden.
+        这就是就是说，你不必给花园浇水了。
+1052. That was a pleasant surprise.
+        这是意想不能的好事。
+1053. It means I can have tea, instead.
+        这意味着我反倒可以喝茶了。
+$课文127  著名的女演员
+1054. Can you recognize that woman,Liz?
+        莉兹，你能认出那个女人吗？
+1055. I think I can, Kate.
+        我想我认得出来，凯特。
+1056. It must be Karen Marsh,the actress.
+        那一定是女演员卡.马会。
+1057. I though so.
+        我也这样想。
+1058. Who's that beside her?
+        她旁边的那个人是谁？
+1059. That must be Conrad Reeves.
+        一定是康拉德.里弗斯。
+1060. Conrad Reeves, the actor?
+        康拉德.里弗斯，那个男演员吗？
+1061. It's can't be.
+        不可能是。
+1062. Let me have another look.
+        让我再看一看。
+1063. I think you're right!
+        我想你是对的。
+1064. Isn't he her third husband?
+        他不是她的第3个丈夫吗？
+1065. No. He must be her fourth or fifth.
+        不，他一定是她的第4个或第5个丈夫。
+1066. Doesn't Karen Marsh look old!
+        卡伦看上去不显老嘛！
+1067. She does, doesn't she!
+        是的，谁说不是呢！
+1068. I read she's twenty-nine,
+        我从报上看到她是29岁，
+1069. but she must be at least forty.
+        但她一定至少有40岁了。
+1070. I'm sure she is.
+        我肯定她有40岁了。
+1071. She was a famous actress When I was still at school.
+        当我还是学生时，她就是个著名的演员了。
+1072. That was a long time ago, wasn't it?
+        那是好久以前的事了。是吗？
+1073. Not that long ago!
+        不，没有那么久。
+1074. I'm not more than twenty-nine myself.
+        我自己现在还没29岁呢。
+$课文129  时速70英里
+1075. Look, Gary!
+        瞧，加里！
+1076. That policeman's waving to you.
+        那个警察正朝你挥手呢。
+1077. He wants you to stop.
+        他要你停下来。
+1078. Where do you think you are?
+        你认为你现在是在哪儿？
+1079. On a race track?
+        在赛车道上吗？
+1080. You must have been driving at seventy miles an hour.
+        你刚才一定是以每小时70英里的速度开车。
+1081. I can't have been.
+        我不会开得那么快的。
+1082. I was doing eighty when I overtook you.
+        我是以第小时80英里的速度赶上你的。
+1083. Didn't you see the speed limit?
+        难道你没看见限速牌吗？
+1084. I'm afraid I didn't, officer.
+        恐怕我没有看见，警官。
+1085. I must have been dreaming.
+        我一定思想开小差了。
+1086. He wasn't dreaming, officer.
+        警官，他思想没有开小差。
+1087. I was telling him to drive slowly.
+        我刚才正告诉他开慢点。
+1088. That's why I didn't see the sign.
+        所以我才没看见那牌子。
+1089. Let me see your driving licence.
+        让我看一看你的驾驶执照。
+1090. I won't charge you this time.
+        这次我就不罚你款了。
+1091. But you'd better not do it again!
+        但你最好不要再开得这样快。
+1092. Thank you. I'll certainly be more careful.
+        谢谢您。我以后一定会多加注意。
+1093. I told you to drive slowly, Gary.
+        加里，我刚才叫你开慢点吧。
+1094. You always tell me to drive slowly, darling.
+        你总是叫我开慢点，亲爱的。
+1095. Well, next time you'd better take my advice!
+        好啦，下次你最好还是听从我的劝告！
+$课文131  别那么肯定！
+1096. Where are you going to spend your holidays this year,Gary?
+        加里，今年你们打算去哪里度假？
+1097. We may go abroad.
+        我们可能到国外去，
+1098. I'm not sure.
+        但我不敢肯定。
+1099. My wife wants go to Egypt.
+        我妻子想到埃及去，
+1100. I'd like to there, too.
+        我也想去那儿。
+1101. We can't make up our minds.
+        我们还拿不定主意。
+1102. Will you travel by sea or air?
+        你们乘船去，还是乘飞机去？
+1103. We may travel by sea.
+        我们可能乘船去。
+1104. It's cheaper, isn't it?
+        这更便宜些，是吗？
+1105. It may be cheaper.
+        可能是便宜些，
+1106. but it takes a long time.
+        但花的时间长。
+1107. I'm sure you'll enjoy yourselves.
+        我肯定你们一定会玩得很痛快。
+1108. Don't be so sure.
+        别那么肯定。
+1109. We might not go anywhere.
+        我们可能哪里也去不成。
+1110. My wife always worries too much.
+        我妻子总是担心那的。
+1111. Who's going to look after the dog?
+        谁来照看狗啦，
+1112. Who's going to look after the house?
+        谁来看管房子啦，
+1113. Who's going to look after the garden?
+        谁来照料花园啦，
+1114. We have this problem every year.
+        我们每年都碰到这类问题。
+1115. in the end, we stay at home and look after everything!
+        末了，我们呆在家里来照看一切。
+$课文133  爆炸性新闻！
+1116. Have you just made a new film, Miss Marsh? Yes, I have.
+        您刚拍完一部新电影吗，马什小姐？是的，我刚拍完。
+1117. Are you going to make a another? No, I'm not.
+        您准备再拍一部吗？不，我不准备拍了。
+1118. I'm going to retire.
+        我准备退休了。
+1119. I feel very tired.
+        我感觉累得很。
+1120. I don't want to make another film for a long time.
+        我早就不想再拍片子了。
+1121. Let's buy a newspaper, Liz.
+        我们买份报纸吧。莉兹。
+1122. Listen to this! Karen Marsh. Sensational News!By our reporter,Alan Jones.
+        “卡伦.马什：爆炸性新闻！由本报记者艾伦.琼斯报导。
+1123. Karen Marsh arrived at London Airport today.
+        卡伦.马什今天到达伦敦机场。
+1124. She was wearing a blue dress and a mink coat.
+        她穿着一身蓝色的套装和一件貂皮大衣。
+1125. She told me she had just made a new film.
+        她告诉我她刚拍完一部新片子。
+1126. she said she was not going to make another.
+        她不准备再拍电影了。
+1127. She said she was going to retire.
+        她说她准备退休。
+1128. She told reporters she felt very tired and didn't want to make another film for a long time.
+        她告诉记者她感到很疲劳，早就不想再拍电影了。
+1129. I wonder why!
+        我很想知道为什么。
+$课文135  最新消息
+1130. Are you really going to retire, miss Marsh?
+        马什小姐，您真的准备退休吗？
+1131. I may.
+        有可能退。
+1132. I can't make up my mind.
+        我还拿不定主意。
+1133. I will have to ask my future husband.
+        我得问一下我的未婚夫。
+1134. He won't let me make another film.
+        他不会再让我拍电影了。
+1135. Your future husband, Miss Marsh?
+        您的未婚夫，马什小姐？
+1136. Yes. Let me introduce him to you.
+        是的，让我把他给你们介绍一下。
+1137. His name is Carlos.
+        他叫卡洛斯。
+1138. We're going to get married next week.
+        下星期我们就要结婚了。
+1139. Look, Liz!
+        看啊，莉兹！
+1140. Here's another report about Karen Marsh.
+        这又有一篇关于卡伦.马会的报道。
+1141. 'Karen Marsh: The latest.
+        你听，“卡伦.最新消息。
+1142. At her London Hotel today Miss Marsh told reporters she might retire.
+        今天在伦敦旅馆，马什小姐告诉记者她可能要退休。
+1143. She said she couldn't make up her mind.
+        她说她还拿不定主意。
+1144. She said she would have to ask her future husband.
+        她说她得问问她的未婚夫。
+1145. She said her future husband would not let her make another film.
+        她说她的未婚夫不会再让她拍电影。
+1146. Then she introduced us to Carlos and told us they would get married next week'.
+        然后她把我们介绍给卡洛斯，并告诉我们说他们下星期结婚。”
+1147. That's sensational news,isn't it, Kate?
+        凯特，这真是条轰动的消息，是不是？
+1148. It certainly is.
+        当然啦。
+1149. He'll be her sixth husband!
+        他将是她的第6个丈夫！
+$课文137  美好的梦
+1150. Are you doing the football pools, Brain?
+        布赖恩，你正在下足球赛的赌注吗？
+1151. Yes, I've nearly finished, Julie.
+        是的。我这就做完了。朱莉。
+1152. I'm sure we'll win something this week.
+        我敢肯定这星期我们会赢一点的。
+1153. You always say that, but we never win anything!
+        你老是那样说，但是我们从来没赢过！
+1154. What will you do if you win a lot of money?
+        要是你赢了许多钱，你打算做什么呢？
+1155. If I win a lot of money I'll buy you a mink coat.
+        要是我赢了许多钱，我给你买件貂皮大衣。
+1156. I don't want a mink coat!
+        我不要貂皮大衣。
+1157. I want to see the world.
+        我要去见风世面。
+1158. All right. If we win a lot of money,
+        好吧。要是我们赢了很多钱，
+1159. We'll travel around the world and we'll stay at the best hotels.
+        我们就去周游世界，并且往最好的旅馆。
+1160. Then we'll return home and buy a big house in the country.
+        然后我们返回家园，在乡下买幢大房子。
+1161. We'll have a beautiful garden and ...
+        我们将有一个漂亮的花园和……
+1162. But if we spend all that money we'll be poor again.
+        但是如果我们把所有钱都花光了，我们又会变穷的。
+1163. What'll we do then?
+        那时我们怎么办呢？
+1164. If we spend all the money we'll try and win the football pools again.
+        如果我们花光了所有钱，我们设法在足球赛赌注上再赢一次。
+1165. It's a pleasant dream but everything depends on 'if'!
+        这是个美好的梦，但一切都取决于“如果”！
+$课文139  是你吗，约翰？
+1166. Is that you, John?
+        是你吗，约翰？
+1167. Yes, speaking.
+        是我，请讲。
+1168. Tell Mary we'll be late for dinner this evening.
+        你告诉玛丽，今晚吃饭将晚到一会儿。
+1169. I'm afraid I don't understand.
+        恐怕我还不明白您的意思。
+1170. Hasn't Mary told you?
+        玛丽没有告诉你吗？
+1171. She invited Charlotte and me to dinner this evening.
+        她邀请我和夏洛特今晚去吃饭。
+1172. I said I would be at your house at six o'clock,
+        我说过我6点到你家，
+1173. but the boss want me to do some extra work.
+        但老板要我加班。
+1174. I'll have to stay at the office.
+        我不得不留在办公室，
+1175. I don't know when I'll finish.
+        不知道什么时候才能结束。
+1176. Oh, and by the way, my wife wants to know if Mary needs any help.
+        喔，顺便问一问，我妻子想知道玛丽是否需要帮忙。
+1177. I don't know what you're talking about.
+        我不知道您在说些什么。
+1178. That is John Smith, isn't it?
+        你是约翰.史密斯，对吗？
+1179. Yes, I'm John Smith.
+        是的，我是约翰.史密斯。
+1180. You are John Smith,the engineer,aren't you? That's right.
+        你是工程师约翰.史密斯，对吗？对。
+1181. You work for the Overseas Engineering Company, don't you? No, I don't.
+        你在海外工程公司上班，是吗？不，不是。
+1182. I'm John Smith the telephone engineer
+        我是电话工程师约翰.史密斯，
+1183. and I'm repairing your telephone line.
+        我正在修理您的电话线。
+$课文141  萨莉第一交乘火车旅行
+1184. Last week, my four-year-old daughter, Sally, was invited to a children's party.
+        上周，我4岁的女儿萨莉被邀请去参加一个儿童聚会。
+1185. I decided to take her by train.
+        我决定带她乘火车去。
+1186. Sally was very excited because she had never travelled on a train before.
+        萨莉非常激动，因为她从未乘过火车。
+1187. She sat near the window and asked questions about everything she saw.
+        她靠车窗坐着，对她所看到的一切都要问个明白。
+1188. Suddenly, a middle-age lady got on the train and sat opposite Sally.
+        突然，一个中年妇女上了火车，坐在萨莉的对面。
+1189. 'Hello, little girl,' she said.
+        “你好，小姑娘，”她说。
+1190. Sally did not answer, but looked at her curiously.
+        萨莉没回答，却好奇地看着她。
+1191. The lady was dressed in a blue coat and a large, funny hat.
+        那位妇女穿着一件蓝色的大衣，戴着一顶大而滑稽的帽子。
+1192. After the train had left the station, the lady opened her handbag and took to her power compact.
+        火车开出车站后，那位妇女找开了手提包，拿出了粉盒。
+1193. She then began to make up her face.
+        然后她开始打扮起来。
+1194. 'Why are you doing that?' Sally asked.
+        “你为什么要那样做呢？”萨莉问。
+1195. 'To make myself beautiful,' the lady answered.
+        “为了把自己打扮漂亮啊，”
+1196. She put away her compact and smiled kindly.
+        那位妇女答道。她放好了粉盒，慈祥地微笑着。
+1197. 'But you are still ugly,' Sally said.
+        “可是你仍然难看呀，”萨莉说。
+1198. Sally was amused, but I was very embarrassed!
+        萨莉感到很有趣，而我却很尴尬。
+$课文143  林中散步
+1199. I live in a very old town which is surrounded by beautiful woods.
+        我住在一个由美丽的树林环绕的古老的小镇上。
+1200. It is a famous beauty spot.
+        这是一个著名的风景胜地。
+1201. On Sundays, hundreds of people come from the city to see our town and to walk through the woods.
+        每适星期天，有许许多人从城里来观赏我们的小镇，并在树林中散步。
+1202. Visitors have been asked to keep the woods clean and tidy.
+        游客已被告知要保持树林的整洁。
+1203. Litter baskets have been placed under the trees,
+        树下都已设置了废物筐，
+1204. but people still throw their rubbish everywhere.
+        但是人们仍到处扔垃圾。
+1205. Last Wednesday, I went for a walk in the woods.
+        上星期三我到树林里去散步。
+1206. What I saw made me very sad.
+        我所见到的一切使我非常难过。
+1207. I counted seven old cars and three old refrigerators.
+        我数了一下，有7辆旧汽车和3上旧冰箱。
+1208. The little baskets were empty
+        废物筐是空的，
+1209. and the ground was covered with pieces of paper, cigarette ends, old tyres, empty bottles and rusty tins.
+        而满地都是纸片、烟头、旧轮胎，空瓶子和生锈的空罐头盒。
+1210. Among the rubbish, I found a sign which said,
+        在垃圾堆中我发现了一块牌子，上面写着：
+1211. 'Anyone who leaves litter in these woods will be prosecuted!'
+        “凡在此树林里丢弃垃圾者，将依法处置。

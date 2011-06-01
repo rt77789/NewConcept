@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: MusicPlayer
+Bundle-SymbolicName: MusicPlayer
+Bundle-Version: 1.0.0.qualifier
+Export-Package: org.xiaoe.test.demo.music,
+ org.xiaoe.test.demo.parser,
+ org.xiaoe.test.demo.util
