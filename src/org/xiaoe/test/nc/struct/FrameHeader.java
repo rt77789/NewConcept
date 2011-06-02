@@ -1,8 +1,8 @@
-package org.xiaoe.test.demo.struct;
+package org.xiaoe.test.nc.struct;
 
 
-import org.xiaoe.test.demo.util.Arrays;
-import org.xiaoe.test.demo.util.ID3v2;
+import org.xiaoe.test.nc.util.Arrays;
+import org.xiaoe.test.nc.util.ID3v2;
 
 public class FrameHeader {
 	private byte id[];

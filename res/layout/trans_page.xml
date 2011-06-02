@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:padding="10dip" android:orientation="vertical" android:id="@+id/TransRelativeLayout">
+	
+	<ScrollView android:layout_width="fill_parent"
+		android:layout_height="wrap_content" android:focusable="true">
+		<TextView android:id="@+id/trans_text" android:layout_width="wrap_content"
+			android:textSize="16dp" android:layout_height="wrap_content"
+			android:padding="3dp" android:scrollbars="vertical"
+			android:textColorHighlight="#ff0000ff" android:text="" />
+	</ScrollView>
+</RelativeLayout>

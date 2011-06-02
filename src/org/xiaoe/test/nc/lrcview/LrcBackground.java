@@ -1,4 +1,4 @@
-package org.xiaoe.test.demo.lrcview;
+package org.xiaoe.test.nc.lrcview;
 
 import java.io.FileNotFoundException;
 import java.util.Map;

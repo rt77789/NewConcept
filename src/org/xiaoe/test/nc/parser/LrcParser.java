@@ -1,4 +1,4 @@
-package org.xiaoe.test.demo.parser;
+package org.xiaoe.test.nc.parser;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -6,8 +6,7 @@ import java.util.Scanner;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-import org.xiaoe.test.demo.struct.Pair;
-
+import org.xiaoe.test.nc.struct.Pair;
 
 public class LrcParser {
 	Matcher match;
@@ -17,9 +16,9 @@ public class LrcParser {
 	public LrcParser(String filename) throws FileNotFoundException {
 		// / [03:55.11]
 		pattern = Pattern.compile("^\\[(\\d{2}):(\\d{2})\\.(\\d{2})\\]");
-		//InputStream in = this.getClass().getResourceAsStream(filename);
+		// InputStream in = this.getClass().getResourceAsStream(filename);
 
-		scan = new Scanner(new File(filename));
+		scan = new Scanner(new File(filename), "GBK");
 	}
 
 	public boolean hasNext() {

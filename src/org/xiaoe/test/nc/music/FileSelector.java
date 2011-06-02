@@ -1,6 +1,7 @@
-package org.xiaoe.test.demo.music;
+package org.xiaoe.test.nc.music;
 
 import java.io.File;
+
 
 import android.app.Activity;
 import android.app.ProgressDialog;
@@ -21,7 +22,7 @@ import android.widget.TextView;
  */
 public class FileSelector extends Activity {
 
-	private final String MAIN_PATH = "/sdcard";
+	private final String MAIN_PATH = "/sdcard/newconcept";
 	private ProgressDialog pd = null;
 	private LinearLayout fileSelectorPanel = null;
 	private Handler handler = null;

@@ -1,28 +1,38 @@
-package org.xiaoe.test.demo.music;
+package org.xiaoe.test.nc.music;
 
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.Map;
 import java.util.TreeMap;
 import java.util.Map.Entry;
 
-import org.xiaoe.test.demo.lrcview.LrcView;
-import org.xiaoe.test.demo.parser.LrcParser;
-import org.xiaoe.test.demo.struct.Pair;
-import org.xiaoe.test.demo.struct.Util;
-import org.xiaoe.test.demo.util.ID3v2;
+import org.xiaoe.test.nc.lrcview.LrcView;
+import org.xiaoe.test.nc.parser.LrcParser;
+import org.xiaoe.test.nc.parser.TransParser;
+import org.xiaoe.test.nc.parser.WordParser;
+import org.xiaoe.test.nc.struct.Pair;
+import org.xiaoe.test.nc.struct.Sentence;
+import org.xiaoe.test.nc.struct.Util;
+import org.xiaoe.test.nc.struct.Word;
+import org.xiaoe.test.nc.util.ID3v2;
 
-import android.app.Activity;
+import android.app.TabActivity;
+import android.content.Context;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.util.Log;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.Button;
 import android.widget.SeekBar;
+import android.widget.TabHost;
 import android.widget.TextView;
 
-public class MusicPlayer extends Activity {
+public class MusicPlayer extends TabActivity {
 
 	private MediaPlayer english = null; // # MediaPlayer
 
@@ -52,6 +62,12 @@ public class MusicPlayer extends Activity {
 
 	private ID3v2 id3v2;
 
+	private List<Word> words;
+
+	private List<Sentence> sents;
+
+	private String subject;
+
 	private Handler mHandle = new Handler() {
 		@Override
 		public void handleMessage(Message msg) {
@@ -76,8 +92,7 @@ public class MusicPlayer extends Activity {
 					int sMax = sb.getMax();
 					sb.setProgress(msg.arg1 * sMax / msg.arg2);
 				}
-				
-				
+
 			}
 		}
 	};
@@ -88,7 +103,7 @@ public class MusicPlayer extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.rocking);
+		// setContentView(R.layout.lrc_page);
 
 		Intent intent = getIntent();
 
@@ -102,18 +117,72 @@ public class MusicPlayer extends Activity {
 		// Log.d("xiaoe", "onCreate(): thread new.");
 	}
 
-	private String getLrcDir(String filePath) {
+	private String getBaseFileName(String filePath) {
 
 		// Log.d("xiaoe", "filePath is [" + filePath + "]");
 
 		if (filePath.endsWith(".mp3")) {
-			return filePath.substring(0, filePath.length() - ".mp3".length())
-					+ ".lrc";
+			return filePath.substring(0, filePath.length() - ".mp3".length());
 		}
 		return null;
 	}
 
+	private void loadWords(String fileName) throws FileNotFoundException {
+		words = new ArrayList<Word>();
+		WordParser wp = new WordParser(fileName);
+		while (wp.hasNext()) {
+			words.add(wp.next());
+		}
+	}
+
+	private void loadTrans(String fileName) throws FileNotFoundException {
+		sents = new ArrayList<Sentence>();
+
+		TransParser tp = new TransParser(fileName);
+		this.subject = tp.getSubject();
+		while (tp.hasNext()) {
+			sents.add(tp.next());
+		}
+	}
+
+	private void addWordView() {
+		TextView tv = (TextView) findViewById(R.id.word_text);
+		if (tv == null) {
+			Log.d("xiaoe", "word_text is null.");
+		}
+		for (Word wo : words) {
+			String pre = String.valueOf(tv.getText());
+			pre += wo.getWord() + "\n" + wo.getPronounce() + "\n" + wo.getMean() + "\n";
+			tv.setText(pre);
+		}
+	}
+	
+	private void addTransView() {
+		TextView tv = (TextView) findViewById(R.id.trans_text);
+		if (tv == null) {
+			Log.d("xiaoe", "word_text is null.");
+		}
+		tv.setText("Subject: " + this.subject + "\n\n");
+		
+		for (Sentence sent : sents) {
+			String pre = String.valueOf(tv.getText());
+			pre += sent.getEnglish() + "\n" + sent.getChinese() + "\n";
+			tv.setText(pre);
+		}
+	}
+
 	private void initialize(String filePath) throws Exception {
+		TabHost tabHost = getTabHost();
+
+		LayoutInflater.from(this).inflate(R.layout.frame_page,
+				tabHost.getTabContentView(), true);
+
+		tabHost.addTab(tabHost.newTabSpec("MP3").setIndicator("MP3")
+				.setContent(R.id.LRCRelativeLayout));
+		tabHost.addTab(tabHost.newTabSpec("WORD").setIndicator("WORD")
+				.setContent(R.id.WordRelativeLayout));
+		tabHost.addTab(tabHost.newTabSpec("TRANS").setIndicator("TRANS")
+				.setContent(R.id.TransRelativeLayout));
 
 		sb = (SeekBar) findViewById(R.id.seekBar1);
 
@@ -124,7 +193,7 @@ public class MusicPlayer extends Activity {
 		totalTime = (TextView) findViewById(R.id.textView2);
 		rockButton = (Button) findViewById(R.id.button1);
 
-		lrcView = (LrcView) findViewById(R.id.view1);
+		lrcView = (LrcView) findViewById(R.id.lrc_view);
 
 		if (lrcView == null) {
 			Log.d("xiaoe", "lrcView == null.");
@@ -161,14 +230,24 @@ public class MusicPlayer extends Activity {
 		stamps = new TreeMap<Integer, String>();
 		lrcTextView = new TreeMap<Integer, TextView>();
 
-		String lrcDir = getLrcDir(filePath);
+		String baseFileName = getBaseFileName(filePath);
 
-		if (lrcDir == null) {
-			Log.d("xiaoe", "lrcDir is null");
+		if (baseFileName == null) {
+			Log.d("xiaoe", "baseFileName is null");
 			return;
 		} else {
-			Log.d("xiaoe", "lrcDir is [" + lrcDir + "]");
+			Log.d("xiaoe", "baseFileName is [" + baseFileName + "]");
 		}
+
+		// # Load words and translations.
+
+		loadWords(baseFileName + ".words");
+		addWordView();
+		loadTrans(baseFileName + ".trans");
+		addTransView();
+		
+		
+		String lrcDir = baseFileName + ".lrc";
 
 		try {
 			lrc = new LrcParser(lrcDir);
@@ -222,7 +301,7 @@ public class MusicPlayer extends Activity {
 			} else {
 				english.start();
 				rockButton.setText("Play");
-				
+
 				if (thread == null) {
 					thread = new myThread();
 					thread.start();

@@ -1,4 +1,4 @@
-package org.xiaoe.test.demo.util;
+package org.xiaoe.test.nc.util;
 
 public class Arrays {
 	public static byte[] copyOfRange(byte[] buff, int from, int to) {

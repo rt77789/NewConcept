@@ -1,4 +1,4 @@
-package org.xiaoe.test.demo.struct;
+package org.xiaoe.test.nc.struct;
 
 
 public class Frame {

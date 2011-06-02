@@ -1,6 +1,6 @@
-package org.xiaoe.test.demo.struct;
+package org.xiaoe.test.nc.struct;
 
-import org.xiaoe.test.demo.util.Arrays;
+import org.xiaoe.test.nc.util.Arrays;
 
 
 public class Header {

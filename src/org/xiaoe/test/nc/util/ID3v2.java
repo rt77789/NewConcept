@@ -1,4 +1,4 @@
-package org.xiaoe.test.demo.util;
+package org.xiaoe.test.nc.util;
 
 import java.io.File;
 import java.io.FileInputStream;
@@ -9,9 +9,9 @@ import java.io.UnsupportedEncodingException;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.xiaoe.test.demo.struct.Frame;
-import org.xiaoe.test.demo.struct.FrameHeader;
-import org.xiaoe.test.demo.struct.Header;
+import org.xiaoe.test.nc.struct.Frame;
+import org.xiaoe.test.nc.struct.FrameHeader;
+import org.xiaoe.test.nc.struct.Header;
 
 /**
  * 
