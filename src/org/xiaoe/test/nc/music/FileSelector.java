@@ -1,18 +1,20 @@
 package org.xiaoe.test.nc.music;
 
 import java.io.File;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
-
-import android.app.Activity;
+import android.app.ListActivity;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
 import android.util.Log;
 import android.view.View;
-import android.view.View.OnClickListener;
-import android.widget.LinearLayout;
-import android.widget.TextView;
+import android.widget.ListView;
+import android.widget.SimpleAdapter;
 
 /**
  * Select the file in SD card.
@@ -20,13 +22,14 @@ import android.widget.TextView;
  * @author aliguagua.zhengy
  * 
  */
-public class FileSelector extends Activity {
+public class FileSelector extends ListActivity {
 
 	private final String MAIN_PATH = "/sdcard/newconcept";
 	private ProgressDialog pd = null;
-	private LinearLayout fileSelectorPanel = null;
 	private Handler handler = null;
 	private Thread fileSelectorThread = null;
+	private List<Map<String, Object>> list;
+	private SimpleAdapter adapter;
 
 	/**
 	 * Set progress bar visible/gone and find all 'mp3' files.
@@ -68,14 +71,19 @@ public class FileSelector extends Activity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.main);
+		// setContentView(R.layout.main);
 
 		initialize();
 	}
 
 	private void initialize() {
 
-		fileSelectorPanel = (LinearLayout) findViewById(R.id.linearLayoutf);
+		list = new ArrayList<Map<String, Object>>();
+
+		adapter = new SimpleAdapter(this, list, R.layout.file_element,
+				new String[] { "file_name", "file_dir" }, new int[] {
+						R.id.file_name, R.id.file_dir });
+		setListAdapter(adapter);
 
 		pd = new ProgressDialog(this);
 		// # Set the progress dialog info.
@@ -83,11 +91,6 @@ public class FileSelector extends Activity {
 		pd.setMessage("loading sdcard mp3 files...");
 		pd.setIndeterminate(true);
 		pd.setCancelable(true);
-
-		if (fileSelectorPanel == null) {
-			Log.d("xiaoe", "fileSelectorPanel is null.");
-			return;
-		}
 
 		handler = new Handler();
 
@@ -97,28 +100,24 @@ public class FileSelector extends Activity {
 	}
 
 	/**
-	 * Text click listener used for starting new activity.
+	 * Item of List click listener used for starting new activity.
 	 * 
 	 * @author aliguagua.zhengy
 	 * 
 	 */
-	class TextClickListener implements OnClickListener {
+	protected void onListItemClick(ListView l, View v, int position, long id) {
+		// # Get the mp3 file directory.
+		String filePath = (String) list.get(position).get("file_dir");
 
-		@Override
-		public void onClick(View v) {
-			// # Get the mp3 file directory.
-			String filePath = v.getContentDescription().toString();
+		// # Create a new Intent object.
+		Intent intent = new Intent();
 
-			// # Create a new Intent object.
-			Intent intent = new Intent();
+		intent.putExtra("mp3Dir", filePath);
 
-			intent.putExtra("mp3Dir", filePath);
-
-			// Jump from FileSelector to MusicPlayer.
-			intent.setClass(FileSelector.this, MusicPlayer.class);
-			// Start the new intent.
-			FileSelector.this.startActivity(intent);
-		}
+		// Jump from FileSelector to MusicPlayer.
+		intent.setClass(FileSelector.this, MusicPlayer.class);
+		// Start the new intent.
+		FileSelector.this.startActivity(intent);
 	}
 
 	/**
@@ -166,20 +165,17 @@ public class FileSelector extends Activity {
 	}
 
 	/**
-	 * Insert a new TextView to the main page.
+	 * Insert a new Map data into the main page(List).
 	 * 
 	 * @param dir
 	 * @param fileName
 	 */
 	private void insertView(String dir, String fileName) {
-		TextView tv = new TextView(fileSelectorPanel.getContext());
-
-		tv.setText(fileName);
-		tv.setContentDescription(dir);
-		tv.setClickable(true);
-		tv.setOnClickListener(new TextClickListener());
-
-		fileSelectorPanel.addView(tv);
+		Map<String, Object> map = new HashMap<String, Object>();
+		map.put("file_name", fileName);
+		map.put("file_dir", dir);
+		list.add(map);
+		adapter.notifyDataSetChanged();
 	}
 
 	/**

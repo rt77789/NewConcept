@@ -18,7 +18,6 @@ import org.xiaoe.test.nc.struct.Word;
 import org.xiaoe.test.nc.util.ID3v2;
 
 import android.app.TabActivity;
-import android.content.Context;
 import android.content.Intent;
 import android.media.MediaPlayer;
 import android.os.Bundle;
