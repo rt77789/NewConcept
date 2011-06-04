@@ -191,7 +191,8 @@ public class MusicPlayer extends TabActivity {
 		currentTime = (TextView) findViewById(R.id.textView1);
 		totalTime = (TextView) findViewById(R.id.textView2);
 		rockButton = (Button) findViewById(R.id.button1);
-
+		rockButton.setText("Pause");
+		
 		lrcView = (LrcView) findViewById(R.id.lrc_view);
 
 		if (lrcView == null) {
@@ -211,6 +212,8 @@ public class MusicPlayer extends TabActivity {
 
 		if (currentTime == null) {
 			Log.d("Debug:", "get current == null.");
+		}else {
+			currentTime.setText("0:0");
 		}
 
 		if (totalTime == null) {
@@ -300,7 +303,6 @@ public class MusicPlayer extends TabActivity {
 			} else {
 				english.start();
 				rockButton.setText("Play");
-
 				if (thread == null) {
 					thread = new myThread();
 					thread.start();

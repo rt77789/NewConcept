@@ -79,7 +79,7 @@ public class LrcView extends SurfaceView implements SurfaceHolder.Callback {
 	}
 
 	public void surfaceCreated(SurfaceHolder holder) {
-//		update(-1);
+		update(-1);
 	}
 
 	public void surfaceDestroyed(SurfaceHolder holder) {
