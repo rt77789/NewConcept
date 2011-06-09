@@ -17,7 +17,7 @@ public class WordParser {
 	private Scanner scan = null;
 
 	public WordParser(String filename) throws FileNotFoundException {
-		scan = new Scanner(new File(filename), "GBK");
+		scan = new Scanner(new File(filename), "UTF-8");
 	}
 
 	public boolean hasNext() {

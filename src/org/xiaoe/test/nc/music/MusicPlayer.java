@@ -19,6 +19,7 @@ import org.xiaoe.test.nc.util.ID3v2;
 
 import android.app.TabActivity;
 import android.content.Intent;
+import android.graphics.Typeface;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.os.Handler;
@@ -146,23 +147,30 @@ public class MusicPlayer extends TabActivity {
 
 	private void addWordView() {
 		TextView tv = (TextView) findViewById(R.id.word_text);
+
+		Typeface face = Typeface.createFromAsset(getAssets(),
+				"fonts/SEGOEUI.TTF");
+
+		tv.setTypeface(face);
+
 		if (tv == null) {
 			Log.d("xiaoe", "word_text is null.");
 		}
 		for (Word wo : words) {
 			String pre = String.valueOf(tv.getText());
-			pre += wo.getWord() + "\n" + wo.getPronounce() + "\n" + wo.getMean() + "\n";
+			pre += wo.getWord() + "\n" + wo.getPronounce() + "\n"
+					+ wo.getMean() + "\n";
 			tv.setText(pre);
 		}
 	}
-	
+
 	private void addTransView() {
 		TextView tv = (TextView) findViewById(R.id.trans_text);
 		if (tv == null) {
 			Log.d("xiaoe", "word_text is null.");
 		}
 		tv.setText("Subject: " + this.subject + "\n\n");
-		
+
 		for (Sentence sent : sents) {
 			String pre = String.valueOf(tv.getText());
 			pre += sent.getEnglish() + "\n" + sent.getChinese() + "\n";
@@ -192,7 +200,7 @@ public class MusicPlayer extends TabActivity {
 		totalTime = (TextView) findViewById(R.id.textView2);
 		rockButton = (Button) findViewById(R.id.button1);
 		rockButton.setText("Pause");
-		
+
 		lrcView = (LrcView) findViewById(R.id.lrc_view);
 
 		if (lrcView == null) {
@@ -212,7 +220,7 @@ public class MusicPlayer extends TabActivity {
 
 		if (currentTime == null) {
 			Log.d("Debug:", "get current == null.");
-		}else {
+		} else {
 			currentTime.setText("0:0");
 		}
 
@@ -247,8 +255,7 @@ public class MusicPlayer extends TabActivity {
 		addWordView();
 		loadTrans(baseFileName + ".trans");
 		addTransView();
-		
-		
+
 		String lrcDir = baseFileName + ".lrc";
 
 		try {
