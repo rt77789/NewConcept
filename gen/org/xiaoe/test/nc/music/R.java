@@ -19,8 +19,8 @@ public final class R {
         public static final int WordRelativeLayout=0x7f05000d;
         public static final int button1=0x7f050007;
         public static final int file_dir=0x7f050002;
+        public static final int file_img=0x7f050000;
         public static final int file_name=0x7f050001;
-        public static final int img=0x7f050000;
         public static final int linearLayout1=0x7f050005;
         public static final int lrc_view=0x7f050004;
         public static final int seekBar1=0x7f05000a;

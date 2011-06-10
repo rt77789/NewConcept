@@ -4,7 +4,7 @@
 	android:layout_height="fill_parent">
 
 
-	<ImageView android:id="@+id/img" android:layout_width="wrap_content"
+	<ImageView android:id="@+id/file_img" android:layout_width="wrap_content"
 		android:layout_height="wrap_content" android:layout_margin="5px" />
 
 	<LinearLayout android:orientation="vertical"
